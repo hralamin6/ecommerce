@@ -1,0 +1,3439 @@
+[
+    {
+        "id": "1",
+        "district_id": "1",
+        "name": "Debidwar",
+        "bn_name": "à¦¦à§‡à¦¬à¦¿à¦¦à§à¦¬à¦¾à¦°",
+        "url": "debidwar.comilla.gov.bd"
+    },
+    {
+        "id": "2",
+        "district_id": "1",
+        "name": "Barura",
+        "bn_name": "à¦¬à¦°à§à¦¡à¦¼à¦¾",
+        "url": "barura.comilla.gov.bd"
+    },
+    {
+        "id": "3",
+        "district_id": "1",
+        "name": "Brahmanpara",
+        "bn_name": "à¦¬à§à¦°à¦¾à¦¹à§à¦®à¦£à¦ªà¦¾à¦¡à¦¼à¦¾",
+        "url": "brahmanpara.comilla.gov.bd"
+    },
+    {
+        "id": "4",
+        "district_id": "1",
+        "name": "Chandina",
+        "bn_name": "à¦šà¦¾à¦¨à§à¦¦à¦¿à¦¨à¦¾",
+        "url": "chandina.comilla.gov.bd"
+    },
+    {
+        "id": "5",
+        "district_id": "1",
+        "name": "Chauddagram",
+        "bn_name": "à¦šà§Œà¦¦à§à¦¦à¦—à§à¦°à¦¾à¦®",
+        "url": "chauddagram.comilla.gov.bd"
+    },
+    {
+        "id": "6",
+        "district_id": "1",
+        "name": "Daudkandi",
+        "bn_name": "à¦¦à¦¾à¦‰à¦¦à¦•à¦¾à¦¨à§à¦¦à¦¿",
+        "url": "daudkandi.comilla.gov.bd"
+    },
+    {
+        "id": "7",
+        "district_id": "1",
+        "name": "Homna",
+        "bn_name": "à¦¹à§‹à¦®à¦¨à¦¾",
+        "url": "homna.comilla.gov.bd"
+    },
+    {
+        "id": "8",
+        "district_id": "1",
+        "name": "Laksam",
+        "bn_name": "à¦²à¦¾à¦•à¦¸à¦¾à¦®",
+        "url": "laksam.comilla.gov.bd"
+    },
+    {
+        "id": "9",
+        "district_id": "1",
+        "name": "Muradnagar",
+        "bn_name": "à¦®à§à¦°à¦¾à¦¦à¦¨à¦—à¦°",
+        "url": "muradnagar.comilla.gov.bd"
+    },
+    {
+        "id": "10",
+        "district_id": "1",
+        "name": "Nangalkot",
+        "bn_name": "à¦¨à¦¾à¦™à§à¦—à¦²à¦•à§‹à¦Ÿ",
+        "url": "nangalkot.comilla.gov.bd"
+    },
+    {
+        "id": "11",
+        "district_id": "1",
+        "name": "Comilla Sadar",
+        "bn_name": "à¦•à§à¦®à¦¿à¦²à§à¦²à¦¾ à¦¸à¦¦à¦°",
+        "url": "comillasadar.comilla.gov.bd"
+    },
+    {
+        "id": "12",
+        "district_id": "1",
+        "name": "Meghna",
+        "bn_name": "à¦®à§‡à¦˜à¦¨à¦¾",
+        "url": "meghna.comilla.gov.bd"
+    },
+    {
+        "id": "13",
+        "district_id": "1",
+        "name": "Monohargonj",
+        "bn_name": "à¦®à¦¨à§‹à¦¹à¦°à¦—à¦žà§à¦œ",
+        "url": "monohargonj.comilla.gov.bd"
+    },
+    {
+        "id": "14",
+        "district_id": "1",
+        "name": "Sadarsouth",
+        "bn_name": "à¦¸à¦¦à¦° à¦¦à¦•à§à¦·à¦¿à¦£",
+        "url": "sadarsouth.comilla.gov.bd"
+    },
+    {
+        "id": "15",
+        "district_id": "1",
+        "name": "Titas",
+        "bn_name": "à¦¤à¦¿à¦¤à¦¾à¦¸",
+        "url": "titas.comilla.gov.bd"
+    },
+    {
+        "id": "16",
+        "district_id": "1",
+        "name": "Burichang",
+        "bn_name": "à¦¬à§à¦¡à¦¼à¦¿à¦šà¦‚",
+        "url": "burichang.comilla.gov.bd"
+    },
+    {
+        "id": "17",
+        "district_id": "1",
+        "name": "Lalmai",
+        "bn_name": "à¦²à¦¾à¦²à¦®à¦¾à¦‡",
+        "url": "lalmai.comilla.gov.bd"
+    },
+    {
+        "id": "18",
+        "district_id": "2",
+        "name": "Chhagalnaiya",
+        "bn_name": "à¦›à¦¾à¦—à¦²à¦¨à¦¾à¦‡à§Ÿà¦¾",
+        "url": "chhagalnaiya.feni.gov.bd"
+    },
+    {
+        "id": "19",
+        "district_id": "2",
+        "name": "Feni Sadar",
+        "bn_name": "à¦«à§‡à¦¨à§€ à¦¸à¦¦à¦°",
+        "url": "sadar.feni.gov.bd"
+    },
+    {
+        "id": "20",
+        "district_id": "2",
+        "name": "Sonagazi",
+        "bn_name": "à¦¸à§‹à¦¨à¦¾à¦—à¦¾à¦œà§€",
+        "url": "sonagazi.feni.gov.bd"
+    },
+    {
+        "id": "21",
+        "district_id": "2",
+        "name": "Fulgazi",
+        "bn_name": "à¦«à§à¦²à¦—à¦¾à¦œà§€",
+        "url": "fulgazi.feni.gov.bd"
+    },
+    {
+        "id": "22",
+        "district_id": "2",
+        "name": "Parshuram",
+        "bn_name": "à¦ªà¦°à¦¶à§à¦°à¦¾à¦®",
+        "url": "parshuram.feni.gov.bd"
+    },
+    {
+        "id": "23",
+        "district_id": "2",
+        "name": "Daganbhuiyan",
+        "bn_name": "à¦¦à¦¾à¦—à¦¨à¦­à§‚à¦žà¦¾",
+        "url": "daganbhuiyan.feni.gov.bd"
+    },
+    {
+        "id": "24",
+        "district_id": "3",
+        "name": "Brahmanbaria Sadar",
+        "bn_name": "à¦¬à§à¦°à¦¾à¦¹à§à¦®à¦£à¦¬à¦¾à§œà¦¿à§Ÿà¦¾ à¦¸à¦¦à¦°",
+        "url": "sadar.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "25",
+        "district_id": "3",
+        "name": "Kasba",
+        "bn_name": "à¦•à¦¸à¦¬à¦¾",
+        "url": "kasba.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "26",
+        "district_id": "3",
+        "name": "Nasirnagar",
+        "bn_name": "à¦¨à¦¾à¦¸à¦¿à¦°à¦¨à¦—à¦°",
+        "url": "nasirnagar.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "27",
+        "district_id": "3",
+        "name": "Sarail",
+        "bn_name": "à¦¸à¦°à¦¾à¦‡à¦²",
+        "url": "sarail.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "28",
+        "district_id": "3",
+        "name": "Ashuganj",
+        "bn_name": "à¦†à¦¶à§à¦—à¦žà§à¦œ",
+        "url": "ashuganj.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "29",
+        "district_id": "3",
+        "name": "Akhaura",
+        "bn_name": "à¦†à¦–à¦¾à¦‰à§œà¦¾",
+        "url": "akhaura.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "30",
+        "district_id": "3",
+        "name": "Nabinagar",
+        "bn_name": "à¦¨à¦¬à§€à¦¨à¦—à¦°",
+        "url": "nabinagar.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "31",
+        "district_id": "3",
+        "name": "Bancharampur",
+        "bn_name": "à¦¬à¦¾à¦žà§à¦›à¦¾à¦°à¦¾à¦®à¦ªà§à¦°",
+        "url": "bancharampur.brahmanbaria.gov.bd"
+    },
+    {
+        "id": "32",
+        "district_id": "3",
+        "name": "Bijoynagar",
+        "bn_name": "à¦¬à¦¿à¦œà§Ÿà¦¨à¦—à¦°",
+        "url": "bijoynagar.brahmanbaria.gov.bd    "
+    },
+    {
+        "id": "33",
+        "district_id": "4",
+        "name": "Rangamati Sadar",
+        "bn_name": "à¦°à¦¾à¦™à§à¦—à¦¾à¦®à¦¾à¦Ÿà¦¿ à¦¸à¦¦à¦°",
+        "url": "sadar.rangamati.gov.bd"
+    },
+    {
+        "id": "34",
+        "district_id": "4",
+        "name": "Kaptai",
+        "bn_name": "à¦•à¦¾à¦ªà§à¦¤à¦¾à¦‡",
+        "url": "kaptai.rangamati.gov.bd"
+    },
+    {
+        "id": "35",
+        "district_id": "4",
+        "name": "Kawkhali",
+        "bn_name": "à¦•à¦¾à¦‰à¦–à¦¾à¦²à§€",
+        "url": "kawkhali.rangamati.gov.bd"
+    },
+    {
+        "id": "36",
+        "district_id": "4",
+        "name": "Baghaichari",
+        "bn_name": "à¦¬à¦¾à¦˜à¦¾à¦‡à¦›à§œà¦¿",
+        "url": "baghaichari.rangamati.gov.bd"
+    },
+    {
+        "id": "37",
+        "district_id": "4",
+        "name": "Barkal",
+        "bn_name": "à¦¬à¦°à¦•à¦²",
+        "url": "barkal.rangamati.gov.bd"
+    },
+    {
+        "id": "38",
+        "district_id": "4",
+        "name": "Langadu",
+        "bn_name": "à¦²à¦‚à¦—à¦¦à§",
+        "url": "langadu.rangamati.gov.bd"
+    },
+    {
+        "id": "39",
+        "district_id": "4",
+        "name": "Rajasthali",
+        "bn_name": "à¦°à¦¾à¦œà¦¸à§à¦¥à¦²à§€",
+        "url": "rajasthali.rangamati.gov.bd"
+    },
+    {
+        "id": "40",
+        "district_id": "4",
+        "name": "Belaichari",
+        "bn_name": "à¦¬à¦¿à¦²à¦¾à¦‡à¦›à§œà¦¿",
+        "url": "belaichari.rangamati.gov.bd"
+    },
+    {
+        "id": "41",
+        "district_id": "4",
+        "name": "Juraichari",
+        "bn_name": "à¦œà§à¦°à¦¾à¦›à§œà¦¿",
+        "url": "juraichari.rangamati.gov.bd"
+    },
+    {
+        "id": "42",
+        "district_id": "4",
+        "name": "Naniarchar",
+        "bn_name": "à¦¨à¦¾à¦¨à¦¿à§Ÿà¦¾à¦°à¦šà¦°",
+        "url": "naniarchar.rangamati.gov.bd"
+    },
+    {
+        "id": "43",
+        "district_id": "5",
+        "name": "Noakhali Sadar",
+        "bn_name": "à¦¨à§‹à¦¯à¦¼à¦¾à¦–à¦¾à¦²à§€ à¦¸à¦¦à¦°",
+        "url": "sadar.noakhali.gov.bd"
+    },
+    {
+        "id": "44",
+        "district_id": "5",
+        "name": "Companiganj",
+        "bn_name": "à¦•à§‹à¦®à§à¦ªà¦¾à¦¨à§€à¦—à¦žà§à¦œ",
+        "url": "companiganj.noakhali.gov.bd"
+    },
+    {
+        "id": "45",
+        "district_id": "5",
+        "name": "Begumganj",
+        "bn_name": "à¦¬à§‡à¦—à¦®à¦—à¦žà§à¦œ",
+        "url": "begumganj.noakhali.gov.bd"
+    },
+    {
+        "id": "46",
+        "district_id": "5",
+        "name": "Hatia",
+        "bn_name": "à¦¹à¦¾à¦¤à¦¿à¦¯à¦¼à¦¾",
+        "url": "hatia.noakhali.gov.bd"
+    },
+    {
+        "id": "47",
+        "district_id": "5",
+        "name": "Subarnachar",
+        "bn_name": "à¦¸à§à¦¬à¦°à§à¦£à¦šà¦°",
+        "url": "subarnachar.noakhali.gov.bd"
+    },
+    {
+        "id": "48",
+        "district_id": "5",
+        "name": "Kabirhat",
+        "bn_name": "à¦•à¦¬à¦¿à¦°à¦¹à¦¾à¦Ÿ",
+        "url": "kabirhat.noakhali.gov.bd"
+    },
+    {
+        "id": "49",
+        "district_id": "5",
+        "name": "Senbug",
+        "bn_name": "à¦¸à§‡à¦¨à¦¬à¦¾à¦—",
+        "url": "senbug.noakhali.gov.bd"
+    },
+    {
+        "id": "50",
+        "district_id": "5",
+        "name": "Chatkhil",
+        "bn_name": "à¦šà¦¾à¦Ÿà¦–à¦¿à¦²",
+        "url": "chatkhil.noakhali.gov.bd"
+    },
+    {
+        "id": "51",
+        "district_id": "5",
+        "name": "Sonaimori",
+        "bn_name": "à¦¸à§‹à¦¨à¦¾à¦‡à¦®à§à¦¡à¦¼à§€",
+        "url": "sonaimori.noakhali.gov.bd"
+    },
+    {
+        "id": "52",
+        "district_id": "6",
+        "name": "Haimchar",
+        "bn_name": "à¦¹à¦¾à¦‡à¦®à¦šà¦°",
+        "url": "haimchar.chandpur.gov.bd"
+    },
+    {
+        "id": "53",
+        "district_id": "6",
+        "name": "Kachua",
+        "bn_name": "à¦•à¦šà§à¦¯à¦¼à¦¾",
+        "url": "kachua.chandpur.gov.bd"
+    },
+    {
+        "id": "54",
+        "district_id": "6",
+        "name": "Shahrasti",
+        "bn_name": "à¦¶à¦¾à¦¹à¦°à¦¾à¦¸à§à¦¤à¦¿\t",
+        "url": "shahrasti.chandpur.gov.bd"
+    },
+    {
+        "id": "55",
+        "district_id": "6",
+        "name": "Chandpur Sadar",
+        "bn_name": "à¦šà¦¾à¦à¦¦à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.chandpur.gov.bd"
+    },
+    {
+        "id": "56",
+        "district_id": "6",
+        "name": "Matlab South",
+        "bn_name": "à¦®à¦¤à¦²à¦¬ à¦¦à¦•à§à¦·à¦¿à¦£",
+        "url": "matlabsouth.chandpur.gov.bd"
+    },
+    {
+        "id": "57",
+        "district_id": "6",
+        "name": "Hajiganj",
+        "bn_name": "à¦¹à¦¾à¦œà§€à¦—à¦žà§à¦œ",
+        "url": "hajiganj.chandpur.gov.bd"
+    },
+    {
+        "id": "58",
+        "district_id": "6",
+        "name": "Matlab North",
+        "bn_name": "à¦®à¦¤à¦²à¦¬ à¦‰à¦¤à§à¦¤à¦°",
+        "url": "matlabnorth.chandpur.gov.bd"
+    },
+    {
+        "id": "59",
+        "district_id": "6",
+        "name": "Faridgonj",
+        "bn_name": "à¦«à¦°à¦¿à¦¦à¦—à¦žà§à¦œ",
+        "url": "faridgonj.chandpur.gov.bd"
+    },
+    {
+        "id": "60",
+        "district_id": "7",
+        "name": "Lakshmipur Sadar",
+        "bn_name": "à¦²à¦•à§à¦·à§à¦®à§€à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.lakshmipur.gov.bd"
+    },
+    {
+        "id": "61",
+        "district_id": "7",
+        "name": "Kamalnagar",
+        "bn_name": "à¦•à¦®à¦²à¦¨à¦—à¦°",
+        "url": "kamalnagar.lakshmipur.gov.bd"
+    },
+    {
+        "id": "62",
+        "district_id": "7",
+        "name": "Raipur",
+        "bn_name": "à¦°à¦¾à§Ÿà¦ªà§à¦°",
+        "url": "raipur.lakshmipur.gov.bd"
+    },
+    {
+        "id": "63",
+        "district_id": "7",
+        "name": "Ramgati",
+        "bn_name": "à¦°à¦¾à¦®à¦—à¦¤à¦¿",
+        "url": "ramgati.lakshmipur.gov.bd"
+    },
+    {
+        "id": "64",
+        "district_id": "7",
+        "name": "Ramganj",
+        "bn_name": "à¦°à¦¾à¦®à¦—à¦žà§à¦œ",
+        "url": "ramganj.lakshmipur.gov.bd"
+    },
+    {
+        "id": "65",
+        "district_id": "8",
+        "name": "Rangunia",
+        "bn_name": "à¦°à¦¾à¦™à§à¦—à§à¦¨à¦¿à§Ÿà¦¾",
+        "url": "rangunia.chittagong.gov.bd"
+    },
+    {
+        "id": "66",
+        "district_id": "8",
+        "name": "Sitakunda",
+        "bn_name": "à¦¸à§€à¦¤à¦¾à¦•à§à¦¨à§à¦¡",
+        "url": "sitakunda.chittagong.gov.bd"
+    },
+    {
+        "id": "67",
+        "district_id": "8",
+        "name": "Mirsharai",
+        "bn_name": "à¦®à§€à¦°à¦¸à¦°à¦¾à¦‡",
+        "url": "mirsharai.chittagong.gov.bd"
+    },
+    {
+        "id": "68",
+        "district_id": "8",
+        "name": "Patiya",
+        "bn_name": "à¦ªà¦Ÿà¦¿à§Ÿà¦¾",
+        "url": "patiya.chittagong.gov.bd"
+    },
+    {
+        "id": "69",
+        "district_id": "8",
+        "name": "Sandwip",
+        "bn_name": "à¦¸à¦¨à§à¦¦à§à¦¬à§€à¦ª",
+        "url": "sandwip.chittagong.gov.bd"
+    },
+    {
+        "id": "70",
+        "district_id": "8",
+        "name": "Banshkhali",
+        "bn_name": "à¦¬à¦¾à¦à¦¶à¦–à¦¾à¦²à§€",
+        "url": "banshkhali.chittagong.gov.bd"
+    },
+    {
+        "id": "71",
+        "district_id": "8",
+        "name": "Boalkhali",
+        "bn_name": "à¦¬à§‹à§Ÿà¦¾à¦²à¦–à¦¾à¦²à§€",
+        "url": "boalkhali.chittagong.gov.bd"
+    },
+    {
+        "id": "72",
+        "district_id": "8",
+        "name": "Anwara",
+        "bn_name": "à¦†à¦¨à§‹à¦¯à¦¼à¦¾à¦°à¦¾",
+        "url": "anwara.chittagong.gov.bd"
+    },
+    {
+        "id": "73",
+        "district_id": "8",
+        "name": "Chandanaish",
+        "bn_name": "à¦šà¦¨à§à¦¦à¦¨à¦¾à¦‡à¦¶",
+        "url": "chandanaish.chittagong.gov.bd"
+    },
+    {
+        "id": "74",
+        "district_id": "8",
+        "name": "Satkania",
+        "bn_name": "à¦¸à¦¾à¦¤à¦•à¦¾à¦¨à¦¿à§Ÿà¦¾",
+        "url": "satkania.chittagong.gov.bd"
+    },
+    {
+        "id": "75",
+        "district_id": "8",
+        "name": "Lohagara",
+        "bn_name": "à¦²à§‹à¦¹à¦¾à¦—à¦¾à§œà¦¾",
+        "url": "lohagara.chittagong.gov.bd"
+    },
+    {
+        "id": "76",
+        "district_id": "8",
+        "name": "Hathazari",
+        "bn_name": "à¦¹à¦¾à¦Ÿà¦¹à¦¾à¦œà¦¾à¦°à§€",
+        "url": "hathazari.chittagong.gov.bd"
+    },
+    {
+        "id": "77",
+        "district_id": "8",
+        "name": "Fatikchhari",
+        "bn_name": "à¦«à¦Ÿà¦¿à¦•à¦›à§œà¦¿",
+        "url": "fatikchhari.chittagong.gov.bd"
+    },
+    {
+        "id": "78",
+        "district_id": "8",
+        "name": "Raozan",
+        "bn_name": "à¦°à¦¾à¦‰à¦œà¦¾à¦¨",
+        "url": "raozan.chittagong.gov.bd"
+    },
+    {
+        "id": "79",
+        "district_id": "8",
+        "name": "Karnafuli",
+        "bn_name": "à¦•à¦°à§à¦£à¦«à§à¦²à§€",
+        "url": "karnafuli.chittagong.gov.bd"
+    },
+    {
+        "id": "80",
+        "district_id": "9",
+        "name": "Coxsbazar Sadar",
+        "bn_name": "à¦•à¦•à§à¦¸à¦¬à¦¾à¦œà¦¾à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.coxsbazar.gov.bd"
+    },
+    {
+        "id": "81",
+        "district_id": "9",
+        "name": "Chakaria",
+        "bn_name": "à¦šà¦•à¦°à¦¿à§Ÿà¦¾",
+        "url": "chakaria.coxsbazar.gov.bd"
+    },
+    {
+        "id": "82",
+        "district_id": "9",
+        "name": "Kutubdia",
+        "bn_name": "à¦•à§à¦¤à§à¦¬à¦¦à¦¿à§Ÿà¦¾",
+        "url": "kutubdia.coxsbazar.gov.bd"
+    },
+    {
+        "id": "83",
+        "district_id": "9",
+        "name": "Ukhiya",
+        "bn_name": "à¦‰à¦–à¦¿à§Ÿà¦¾",
+        "url": "ukhiya.coxsbazar.gov.bd"
+    },
+    {
+        "id": "84",
+        "district_id": "9",
+        "name": "Moheshkhali",
+        "bn_name": "à¦®à¦¹à§‡à¦¶à¦–à¦¾à¦²à§€",
+        "url": "moheshkhali.coxsbazar.gov.bd"
+    },
+    {
+        "id": "85",
+        "district_id": "9",
+        "name": "Pekua",
+        "bn_name": "à¦ªà§‡à¦•à§à§Ÿà¦¾",
+        "url": "pekua.coxsbazar.gov.bd"
+    },
+    {
+        "id": "86",
+        "district_id": "9",
+        "name": "Ramu",
+        "bn_name": "à¦°à¦¾à¦®à§",
+        "url": "ramu.coxsbazar.gov.bd"
+    },
+    {
+        "id": "87",
+        "district_id": "9",
+        "name": "Teknaf",
+        "bn_name": "à¦Ÿà§‡à¦•à¦¨à¦¾à¦«",
+        "url": "teknaf.coxsbazar.gov.bd"
+    },
+    {
+        "id": "88",
+        "district_id": "10",
+        "name": "Khagrachhari Sadar",
+        "bn_name": "à¦–à¦¾à¦—à¦¡à¦¼à¦¾à¦›à¦¡à¦¼à¦¿ à¦¸à¦¦à¦°",
+        "url": "sadar.khagrachhari.gov.bd"
+    },
+    {
+        "id": "89",
+        "district_id": "10",
+        "name": "Dighinala",
+        "bn_name": "à¦¦à¦¿à¦˜à§€à¦¨à¦¾à¦²à¦¾",
+        "url": "dighinala.khagrachhari.gov.bd"
+    },
+    {
+        "id": "90",
+        "district_id": "10",
+        "name": "Panchari",
+        "bn_name": "à¦ªà¦¾à¦¨à¦›à¦¡à¦¼à¦¿",
+        "url": "panchari.khagrachhari.gov.bd"
+    },
+    {
+        "id": "91",
+        "district_id": "10",
+        "name": "Laxmichhari",
+        "bn_name": "à¦²à¦•à§à¦·à§€à¦›à¦¡à¦¼à¦¿",
+        "url": "laxmichhari.khagrachhari.gov.bd"
+    },
+    {
+        "id": "92",
+        "district_id": "10",
+        "name": "Mohalchari",
+        "bn_name": "à¦®à¦¹à¦¾à¦²à¦›à¦¡à¦¼à¦¿",
+        "url": "mohalchari.khagrachhari.gov.bd"
+    },
+    {
+        "id": "93",
+        "district_id": "10",
+        "name": "Manikchari",
+        "bn_name": "à¦®à¦¾à¦¨à¦¿à¦•à¦›à¦¡à¦¼à¦¿",
+        "url": "manikchari.khagrachhari.gov.bd"
+    },
+    {
+        "id": "94",
+        "district_id": "10",
+        "name": "Ramgarh",
+        "bn_name": "à¦°à¦¾à¦®à¦—à¦¡à¦¼",
+        "url": "ramgarh.khagrachhari.gov.bd"
+    },
+    {
+        "id": "95",
+        "district_id": "10",
+        "name": "Matiranga",
+        "bn_name": "à¦®à¦¾à¦Ÿà¦¿à¦°à¦¾à¦™à§à¦—à¦¾",
+        "url": "matiranga.khagrachhari.gov.bd"
+    },
+    {
+        "id": "96",
+        "district_id": "10",
+        "name": "Guimara",
+        "bn_name": "à¦—à§à¦‡à¦®à¦¾à¦°à¦¾",
+        "url": "guimara.khagrachhari.gov.bd"
+    },
+    {
+        "id": "97",
+        "district_id": "11",
+        "name": "Bandarban Sadar",
+        "bn_name": "à¦¬à¦¾à¦¨à§à¦¦à¦°à¦¬à¦¾à¦¨ à¦¸à¦¦à¦°",
+        "url": "sadar.bandarban.gov.bd"
+    },
+    {
+        "id": "98",
+        "district_id": "11",
+        "name": "Alikadam",
+        "bn_name": "à¦†à¦²à§€à¦•à¦¦à¦®",
+        "url": "alikadam.bandarban.gov.bd"
+    },
+    {
+        "id": "99",
+        "district_id": "11",
+        "name": "Naikhongchhari",
+        "bn_name": "à¦¨à¦¾à¦‡à¦•à§à¦·à§à¦¯à¦‚à¦›à§œà¦¿",
+        "url": "naikhongchhari.bandarban.gov.bd"
+    },
+    {
+        "id": "100",
+        "district_id": "11",
+        "name": "Rowangchhari",
+        "bn_name": "à¦°à§‹à§Ÿà¦¾à¦‚à¦›à§œà¦¿",
+        "url": "rowangchhari.bandarban.gov.bd"
+    },
+    {
+        "id": "101",
+        "district_id": "11",
+        "name": "Lama",
+        "bn_name": "à¦²à¦¾à¦®à¦¾",
+        "url": "lama.bandarban.gov.bd"
+    },
+    {
+        "id": "102",
+        "district_id": "11",
+        "name": "Ruma",
+        "bn_name": "à¦°à§à¦®à¦¾",
+        "url": "ruma.bandarban.gov.bd"
+    },
+    {
+        "id": "103",
+        "district_id": "11",
+        "name": "Thanchi",
+        "bn_name": "à¦¥à¦¾à¦¨à¦šà¦¿",
+        "url": "thanchi.bandarban.gov.bd"
+    },
+    {
+        "id": "104",
+        "district_id": "12",
+        "name": "Belkuchi",
+        "bn_name": "à¦¬à§‡à¦²à¦•à§à¦šà¦¿",
+        "url": "belkuchi.sirajganj.gov.bd"
+    },
+    {
+        "id": "105",
+        "district_id": "12",
+        "name": "Chauhali",
+        "bn_name": "à¦šà§Œà¦¹à¦¾à¦²à¦¿",
+        "url": "chauhali.sirajganj.gov.bd"
+    },
+    {
+        "id": "106",
+        "district_id": "12",
+        "name": "Kamarkhand",
+        "bn_name": "à¦•à¦¾à¦®à¦¾à¦°à¦–à¦¨à§à¦¦",
+        "url": "kamarkhand.sirajganj.gov.bd"
+    },
+    {
+        "id": "107",
+        "district_id": "12",
+        "name": "Kazipur",
+        "bn_name": "à¦•à¦¾à¦œà§€à¦ªà§à¦°",
+        "url": "kazipur.sirajganj.gov.bd"
+    },
+    {
+        "id": "108",
+        "district_id": "12",
+        "name": "Raigonj",
+        "bn_name": "à¦°à¦¾à§Ÿà¦—à¦žà§à¦œ",
+        "url": "raigonj.sirajganj.gov.bd"
+    },
+    {
+        "id": "109",
+        "district_id": "12",
+        "name": "Shahjadpur",
+        "bn_name": "à¦¶à¦¾à¦¹à¦œà¦¾à¦¦à¦ªà§à¦°",
+        "url": "shahjadpur.sirajganj.gov.bd"
+    },
+    {
+        "id": "110",
+        "district_id": "12",
+        "name": "Sirajganj Sadar",
+        "bn_name": "à¦¸à¦¿à¦°à¦¾à¦œà¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "sirajganjsadar.sirajganj.gov.bd"
+    },
+    {
+        "id": "111",
+        "district_id": "12",
+        "name": "Tarash",
+        "bn_name": "à¦¤à¦¾à§œà¦¾à¦¶",
+        "url": "tarash.sirajganj.gov.bd"
+    },
+    {
+        "id": "112",
+        "district_id": "12",
+        "name": "Ullapara",
+        "bn_name": "à¦‰à¦²à§à¦²à¦¾à¦ªà¦¾à§œà¦¾",
+        "url": "ullapara.sirajganj.gov.bd"
+    },
+    {
+        "id": "113",
+        "district_id": "13",
+        "name": "Sujanagar",
+        "bn_name": "à¦¸à§à¦œà¦¾à¦¨à¦—à¦°",
+        "url": "sujanagar.pabna.gov.bd"
+    },
+    {
+        "id": "114",
+        "district_id": "13",
+        "name": "Ishurdi",
+        "bn_name": "à¦ˆà¦¶à§à¦¬à¦°à¦¦à§€",
+        "url": "ishurdi.pabna.gov.bd"
+    },
+    {
+        "id": "115",
+        "district_id": "13",
+        "name": "Bhangura",
+        "bn_name": "à¦­à¦¾à¦™à§à¦—à§à§œà¦¾",
+        "url": "bhangura.pabna.gov.bd"
+    },
+    {
+        "id": "116",
+        "district_id": "13",
+        "name": "Pabna Sadar",
+        "bn_name": "à¦ªà¦¾à¦¬à¦¨à¦¾ à¦¸à¦¦à¦°",
+        "url": "pabnasadar.pabna.gov.bd"
+    },
+    {
+        "id": "117",
+        "district_id": "13",
+        "name": "Bera",
+        "bn_name": "à¦¬à§‡à§œà¦¾",
+        "url": "bera.pabna.gov.bd"
+    },
+    {
+        "id": "118",
+        "district_id": "13",
+        "name": "Atghoria",
+        "bn_name": "à¦†à¦Ÿà¦˜à¦°à¦¿à§Ÿà¦¾",
+        "url": "atghoria.pabna.gov.bd"
+    },
+    {
+        "id": "119",
+        "district_id": "13",
+        "name": "Chatmohar",
+        "bn_name": "à¦šà¦¾à¦Ÿà¦®à§‹à¦¹à¦°",
+        "url": "chatmohar.pabna.gov.bd"
+    },
+    {
+        "id": "120",
+        "district_id": "13",
+        "name": "Santhia",
+        "bn_name": "à¦¸à¦¾à¦à¦¥à¦¿à§Ÿà¦¾",
+        "url": "santhia.pabna.gov.bd"
+    },
+    {
+        "id": "121",
+        "district_id": "13",
+        "name": "Faridpur",
+        "bn_name": "à¦«à¦°à¦¿à¦¦à¦ªà§à¦°",
+        "url": "faridpur.pabna.gov.bd"
+    },
+    {
+        "id": "122",
+        "district_id": "14",
+        "name": "Kahaloo",
+        "bn_name": "à¦•à¦¾à¦¹à¦¾à¦²à§",
+        "url": "kahaloo.bogra.gov.bd"
+    },
+    {
+        "id": "123",
+        "district_id": "14",
+        "name": "Bogra Sadar",
+        "bn_name": "à¦¬à¦—à§à§œà¦¾ à¦¸à¦¦à¦°",
+        "url": "sadar.bogra.gov.bd"
+    },
+    {
+        "id": "124",
+        "district_id": "14",
+        "name": "Shariakandi",
+        "bn_name": "à¦¸à¦¾à¦°à¦¿à§Ÿà¦¾à¦•à¦¾à¦¨à§à¦¦à¦¿",
+        "url": "shariakandi.bogra.gov.bd"
+    },
+    {
+        "id": "125",
+        "district_id": "14",
+        "name": "Shajahanpur",
+        "bn_name": "à¦¶à¦¾à¦œà¦¾à¦¹à¦¾à¦¨à¦ªà§à¦°",
+        "url": "shajahanpur.bogra.gov.bd"
+    },
+    {
+        "id": "126",
+        "district_id": "14",
+        "name": "Dupchanchia",
+        "bn_name": "à¦¦à§à¦ªà¦šà¦¾à¦šà¦¿à¦à§Ÿà¦¾",
+        "url": "dupchanchia.bogra.gov.bd"
+    },
+    {
+        "id": "127",
+        "district_id": "14",
+        "name": "Adamdighi",
+        "bn_name": "à¦†à¦¦à¦®à¦¦à¦¿à¦˜à¦¿",
+        "url": "adamdighi.bogra.gov.bd"
+    },
+    {
+        "id": "128",
+        "district_id": "14",
+        "name": "Nondigram",
+        "bn_name": "à¦¨à¦¨à§à¦¦à¦¿à¦—à§à¦°à¦¾à¦®",
+        "url": "nondigram.bogra.gov.bd"
+    },
+    {
+        "id": "129",
+        "district_id": "14",
+        "name": "Sonatala",
+        "bn_name": "à¦¸à§‹à¦¨à¦¾à¦¤à¦²à¦¾",
+        "url": "sonatala.bogra.gov.bd"
+    },
+    {
+        "id": "130",
+        "district_id": "14",
+        "name": "Dhunot",
+        "bn_name": "à¦§à§à¦¨à¦Ÿ",
+        "url": "dhunot.bogra.gov.bd"
+    },
+    {
+        "id": "131",
+        "district_id": "14",
+        "name": "Gabtali",
+        "bn_name": "à¦—à¦¾à¦¬à¦¤à¦²à§€",
+        "url": "gabtali.bogra.gov.bd"
+    },
+    {
+        "id": "132",
+        "district_id": "14",
+        "name": "Sherpur",
+        "bn_name": "à¦¶à§‡à¦°à¦ªà§à¦°",
+        "url": "sherpur.bogra.gov.bd"
+    },
+    {
+        "id": "133",
+        "district_id": "14",
+        "name": "Shibganj",
+        "bn_name": "à¦¶à¦¿à¦¬à¦—à¦žà§à¦œ",
+        "url": "shibganj.bogra.gov.bd"
+    },
+    {
+        "id": "134",
+        "district_id": "15",
+        "name": "Paba",
+        "bn_name": "à¦ªà¦¬à¦¾",
+        "url": "paba.rajshahi.gov.bd"
+    },
+    {
+        "id": "135",
+        "district_id": "15",
+        "name": "Durgapur",
+        "bn_name": "à¦¦à§à¦°à§à¦—à¦¾à¦ªà§à¦°",
+        "url": "durgapur.rajshahi.gov.bd"
+    },
+    {
+        "id": "136",
+        "district_id": "15",
+        "name": "Mohonpur",
+        "bn_name": "à¦®à§‹à¦¹à¦¨à¦ªà§à¦°",
+        "url": "mohonpur.rajshahi.gov.bd"
+    },
+    {
+        "id": "137",
+        "district_id": "15",
+        "name": "Charghat",
+        "bn_name": "à¦šà¦¾à¦°à¦˜à¦¾à¦Ÿ",
+        "url": "charghat.rajshahi.gov.bd"
+    },
+    {
+        "id": "138",
+        "district_id": "15",
+        "name": "Puthia",
+        "bn_name": "à¦ªà§à¦ à¦¿à¦¯à¦¼à¦¾",
+        "url": "puthia.rajshahi.gov.bd"
+    },
+    {
+        "id": "139",
+        "district_id": "15",
+        "name": "Bagha",
+        "bn_name": "à¦¬à¦¾à¦˜à¦¾",
+        "url": "bagha.rajshahi.gov.bd"
+    },
+    {
+        "id": "140",
+        "district_id": "15",
+        "name": "Godagari",
+        "bn_name": "à¦—à§‹à¦¦à¦¾à¦—à¦¾à¦¡à¦¼à§€",
+        "url": "godagari.rajshahi.gov.bd"
+    },
+    {
+        "id": "141",
+        "district_id": "15",
+        "name": "Tanore",
+        "bn_name": "à¦¤à¦¾à¦¨à§‹à¦°",
+        "url": "tanore.rajshahi.gov.bd"
+    },
+    {
+        "id": "142",
+        "district_id": "15",
+        "name": "Bagmara",
+        "bn_name": "à¦¬à¦¾à¦—à¦®à¦¾à¦°à¦¾",
+        "url": "bagmara.rajshahi.gov.bd"
+    },
+    {
+        "id": "143",
+        "district_id": "16",
+        "name": "Natore Sadar",
+        "bn_name": "à¦¨à¦¾à¦Ÿà§‹à¦° à¦¸à¦¦à¦°",
+        "url": "natoresadar.natore.gov.bd"
+    },
+    {
+        "id": "144",
+        "district_id": "16",
+        "name": "Singra",
+        "bn_name": "à¦¸à¦¿à¦‚à¦¡à¦¼à¦¾",
+        "url": "singra.natore.gov.bd"
+    },
+    {
+        "id": "145",
+        "district_id": "16",
+        "name": "Baraigram",
+        "bn_name": "à¦¬à¦¡à¦¼à¦¾à¦‡à¦—à§à¦°à¦¾à¦®",
+        "url": "baraigram.natore.gov.bd"
+    },
+    {
+        "id": "146",
+        "district_id": "16",
+        "name": "Bagatipara",
+        "bn_name": "à¦¬à¦¾à¦—à¦¾à¦¤à¦¿à¦ªà¦¾à¦¡à¦¼à¦¾",
+        "url": "bagatipara.natore.gov.bd"
+    },
+    {
+        "id": "147",
+        "district_id": "16",
+        "name": "Lalpur",
+        "bn_name": "à¦²à¦¾à¦²à¦ªà§à¦°",
+        "url": "lalpur.natore.gov.bd"
+    },
+    {
+        "id": "148",
+        "district_id": "16",
+        "name": "Gurudaspur",
+        "bn_name": "à¦—à§à¦°à§à¦¦à¦¾à¦¸à¦ªà§à¦°",
+        "url": "gurudaspur.natore.gov.bd"
+    },
+    {
+        "id": "149",
+        "district_id": "16",
+        "name": "Naldanga",
+        "bn_name": "à¦¨à¦²à¦¡à¦¾à¦™à§à¦—à¦¾",
+        "url": "naldanga.natore.gov.bd"
+    },
+    {
+        "id": "150",
+        "district_id": "17",
+        "name": "Akkelpur",
+        "bn_name": "à¦†à¦•à§à¦•à§‡à¦²à¦ªà§à¦°",
+        "url": "akkelpur.joypurhat.gov.bd"
+    },
+    {
+        "id": "151",
+        "district_id": "17",
+        "name": "Kalai",
+        "bn_name": "à¦•à¦¾à¦²à¦¾à¦‡",
+        "url": "kalai.joypurhat.gov.bd"
+    },
+    {
+        "id": "152",
+        "district_id": "17",
+        "name": "Khetlal",
+        "bn_name": "à¦•à§à¦·à§‡à¦¤à¦²à¦¾à¦²",
+        "url": "khetlal.joypurhat.gov.bd"
+    },
+    {
+        "id": "153",
+        "district_id": "17",
+        "name": "Panchbibi",
+        "bn_name": "à¦ªà¦¾à¦à¦šà¦¬à¦¿à¦¬à¦¿",
+        "url": "panchbibi.joypurhat.gov.bd"
+    },
+    {
+        "id": "154",
+        "district_id": "17",
+        "name": "Joypurhat Sadar",
+        "bn_name": "à¦œà§Ÿà¦ªà§à¦°à¦¹à¦¾à¦Ÿ à¦¸à¦¦à¦°",
+        "url": "joypurhatsadar.joypurhat.gov.bd"
+    },
+    {
+        "id": "155",
+        "district_id": "18",
+        "name": "Chapainawabganj Sadar",
+        "bn_name": "à¦šà¦¾à¦à¦ªà¦¾à¦‡à¦¨à¦¬à¦¾à¦¬à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "chapainawabganjsadar.chapainawabganj.gov.bd"
+    },
+    {
+        "id": "156",
+        "district_id": "18",
+        "name": "Gomostapur",
+        "bn_name": "à¦—à§‹à¦®à¦¸à§à¦¤à¦¾à¦ªà§à¦°",
+        "url": "gomostapur.chapainawabganj.gov.bd"
+    },
+    {
+        "id": "157",
+        "district_id": "18",
+        "name": "Nachol",
+        "bn_name": "à¦¨à¦¾à¦šà§‹à¦²",
+        "url": "nachol.chapainawabganj.gov.bd"
+    },
+    {
+        "id": "158",
+        "district_id": "18",
+        "name": "Bholahat",
+        "bn_name": "à¦­à§‹à¦²à¦¾à¦¹à¦¾à¦Ÿ",
+        "url": "bholahat.chapainawabganj.gov.bd"
+    },
+    {
+        "id": "159",
+        "district_id": "18",
+        "name": "Shibganj",
+        "bn_name": "à¦¶à¦¿à¦¬à¦—à¦žà§à¦œ",
+        "url": "shibganj.chapainawabganj.gov.bd"
+    },
+    {
+        "id": "160",
+        "district_id": "19",
+        "name": "Mohadevpur",
+        "bn_name": "à¦®à¦¹à¦¾à¦¦à§‡à¦¬à¦ªà§à¦°",
+        "url": "mohadevpur.naogaon.gov.bd"
+    },
+    {
+        "id": "161",
+        "district_id": "19",
+        "name": "Badalgachi",
+        "bn_name": "à¦¬à¦¦à¦²à¦—à¦¾à¦›à§€",
+        "url": "badalgachi.naogaon.gov.bd"
+    },
+    {
+        "id": "162",
+        "district_id": "19",
+        "name": "Patnitala",
+        "bn_name": "à¦ªà¦¤à§à¦¨à¦¿à¦¤à¦²à¦¾",
+        "url": "patnitala.naogaon.gov.bd"
+    },
+    {
+        "id": "163",
+        "district_id": "19",
+        "name": "Dhamoirhat",
+        "bn_name": "à¦§à¦¾à¦®à¦‡à¦°à¦¹à¦¾à¦Ÿ",
+        "url": "dhamoirhat.naogaon.gov.bd"
+    },
+    {
+        "id": "164",
+        "district_id": "19",
+        "name": "Niamatpur",
+        "bn_name": "à¦¨à¦¿à§Ÿà¦¾à¦®à¦¤à¦ªà§à¦°",
+        "url": "niamatpur.naogaon.gov.bd"
+    },
+    {
+        "id": "165",
+        "district_id": "19",
+        "name": "Manda",
+        "bn_name": "à¦®à¦¾à¦¨à§à¦¦à¦¾",
+        "url": "manda.naogaon.gov.bd"
+    },
+    {
+        "id": "166",
+        "district_id": "19",
+        "name": "Atrai",
+        "bn_name": "à¦†à¦¤à§à¦°à¦¾à¦‡",
+        "url": "atrai.naogaon.gov.bd"
+    },
+    {
+        "id": "167",
+        "district_id": "19",
+        "name": "Raninagar",
+        "bn_name": "à¦°à¦¾à¦£à§€à¦¨à¦—à¦°",
+        "url": "raninagar.naogaon.gov.bd"
+    },
+    {
+        "id": "168",
+        "district_id": "19",
+        "name": "Naogaon Sadar",
+        "bn_name": "à¦¨à¦“à¦—à¦¾à¦ à¦¸à¦¦à¦°",
+        "url": "naogaonsadar.naogaon.gov.bd"
+    },
+    {
+        "id": "169",
+        "district_id": "19",
+        "name": "Porsha",
+        "bn_name": "à¦ªà§‹à¦°à¦¶à¦¾",
+        "url": "porsha.naogaon.gov.bd"
+    },
+    {
+        "id": "170",
+        "district_id": "19",
+        "name": "Sapahar",
+        "bn_name": "à¦¸à¦¾à¦ªà¦¾à¦¹à¦¾à¦°",
+        "url": "sapahar.naogaon.gov.bd"
+    },
+    {
+        "id": "171",
+        "district_id": "20",
+        "name": "Manirampur",
+        "bn_name": "à¦®à¦£à¦¿à¦°à¦¾à¦®à¦ªà§à¦°",
+        "url": "manirampur.jessore.gov.bd"
+    },
+    {
+        "id": "172",
+        "district_id": "20",
+        "name": "Abhaynagar",
+        "bn_name": "à¦…à¦­à§Ÿà¦¨à¦—à¦°",
+        "url": "abhaynagar.jessore.gov.bd"
+    },
+    {
+        "id": "173",
+        "district_id": "20",
+        "name": "Bagherpara",
+        "bn_name": "à¦¬à¦¾à¦˜à¦¾à¦°à¦ªà¦¾à§œà¦¾",
+        "url": "bagherpara.jessore.gov.bd"
+    },
+    {
+        "id": "174",
+        "district_id": "20",
+        "name": "Chougachha",
+        "bn_name": "à¦šà§Œà¦—à¦¾à¦›à¦¾",
+        "url": "chougachha.jessore.gov.bd"
+    },
+    {
+        "id": "175",
+        "district_id": "20",
+        "name": "Jhikargacha",
+        "bn_name": "à¦à¦¿à¦•à¦°à¦—à¦¾à¦›à¦¾",
+        "url": "jhikargacha.jessore.gov.bd"
+    },
+    {
+        "id": "176",
+        "district_id": "20",
+        "name": "Keshabpur",
+        "bn_name": "à¦•à§‡à¦¶à¦¬à¦ªà§à¦°",
+        "url": "keshabpur.jessore.gov.bd"
+    },
+    {
+        "id": "177",
+        "district_id": "20",
+        "name": "Jessore Sadar",
+        "bn_name": "à¦¯à¦¶à§‹à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.jessore.gov.bd"
+    },
+    {
+        "id": "178",
+        "district_id": "20",
+        "name": "Sharsha",
+        "bn_name": "à¦¶à¦¾à¦°à§à¦¶à¦¾",
+        "url": "sharsha.jessore.gov.bd"
+    },
+    {
+        "id": "179",
+        "district_id": "21",
+        "name": "Assasuni",
+        "bn_name": "à¦†à¦¶à¦¾à¦¶à§à¦¨à¦¿",
+        "url": "assasuni.satkhira.gov.bd"
+    },
+    {
+        "id": "180",
+        "district_id": "21",
+        "name": "Debhata",
+        "bn_name": "à¦¦à§‡à¦¬à¦¹à¦¾à¦Ÿà¦¾",
+        "url": "debhata.satkhira.gov.bd"
+    },
+    {
+        "id": "181",
+        "district_id": "21",
+        "name": "Kalaroa",
+        "bn_name": "à¦•à¦²à¦¾à¦°à§‹à§Ÿà¦¾",
+        "url": "kalaroa.satkhira.gov.bd"
+    },
+    {
+        "id": "182",
+        "district_id": "21",
+        "name": "Satkhira Sadar",
+        "bn_name": "à¦¸à¦¾à¦¤à¦•à§à¦·à§€à¦°à¦¾ à¦¸à¦¦à¦°",
+        "url": "satkhirasadar.satkhira.gov.bd"
+    },
+    {
+        "id": "183",
+        "district_id": "21",
+        "name": "Shyamnagar",
+        "bn_name": "à¦¶à§à¦¯à¦¾à¦®à¦¨à¦—à¦°",
+        "url": "shyamnagar.satkhira.gov.bd"
+    },
+    {
+        "id": "184",
+        "district_id": "21",
+        "name": "Tala",
+        "bn_name": "à¦¤à¦¾à¦²à¦¾",
+        "url": "tala.satkhira.gov.bd"
+    },
+    {
+        "id": "185",
+        "district_id": "21",
+        "name": "Kaliganj",
+        "bn_name": "à¦•à¦¾à¦²à¦¿à¦—à¦žà§à¦œ",
+        "url": "kaliganj.satkhira.gov.bd"
+    },
+    {
+        "id": "186",
+        "district_id": "22",
+        "name": "Mujibnagar",
+        "bn_name": "à¦®à§à¦œà¦¿à¦¬à¦¨à¦—à¦°",
+        "url": "mujibnagar.meherpur.gov.bd"
+    },
+    {
+        "id": "187",
+        "district_id": "22",
+        "name": "Meherpur Sadar",
+        "bn_name": "à¦®à§‡à¦¹à§‡à¦°à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "meherpursadar.meherpur.gov.bd"
+    },
+    {
+        "id": "188",
+        "district_id": "22",
+        "name": "Gangni",
+        "bn_name": "à¦—à¦¾à¦‚à¦¨à§€",
+        "url": "gangni.meherpur.gov.bd"
+    },
+    {
+        "id": "189",
+        "district_id": "23",
+        "name": "Narail Sadar",
+        "bn_name": "à¦¨à§œà¦¾à¦‡à¦² à¦¸à¦¦à¦°",
+        "url": "narailsadar.narail.gov.bd"
+    },
+    {
+        "id": "190",
+        "district_id": "23",
+        "name": "Lohagara",
+        "bn_name": "à¦²à§‹à¦¹à¦¾à¦—à§œà¦¾",
+        "url": "lohagara.narail.gov.bd"
+    },
+    {
+        "id": "191",
+        "district_id": "23",
+        "name": "Kalia",
+        "bn_name": "à¦•à¦¾à¦²à¦¿à§Ÿà¦¾",
+        "url": "kalia.narail.gov.bd"
+    },
+    {
+        "id": "192",
+        "district_id": "24",
+        "name": "Chuadanga Sadar",
+        "bn_name": "à¦šà§à¦¯à¦¼à¦¾à¦¡à¦¾à¦™à§à¦—à¦¾ à¦¸à¦¦à¦°",
+        "url": "chuadangasadar.chuadanga.gov.bd"
+    },
+    {
+        "id": "193",
+        "district_id": "24",
+        "name": "Alamdanga",
+        "bn_name": "à¦†à¦²à¦®à¦¡à¦¾à¦™à§à¦—à¦¾",
+        "url": "alamdanga.chuadanga.gov.bd"
+    },
+    {
+        "id": "194",
+        "district_id": "24",
+        "name": "Damurhuda",
+        "bn_name": "à¦¦à¦¾à¦®à§à¦¡à¦¼à¦¹à§à¦¦à¦¾",
+        "url": "damurhuda.chuadanga.gov.bd"
+    },
+    {
+        "id": "195",
+        "district_id": "24",
+        "name": "Jibannagar",
+        "bn_name": "à¦œà§€à¦¬à¦¨à¦¨à¦—à¦°",
+        "url": "jibannagar.chuadanga.gov.bd"
+    },
+    {
+        "id": "196",
+        "district_id": "25",
+        "name": "Kushtia Sadar",
+        "bn_name": "à¦•à§à¦·à§à¦Ÿà¦¿à§Ÿà¦¾ à¦¸à¦¦à¦°",
+        "url": "kushtiasadar.kushtia.gov.bd"
+    },
+    {
+        "id": "197",
+        "district_id": "25",
+        "name": "Kumarkhali",
+        "bn_name": "à¦•à§à¦®à¦¾à¦°à¦–à¦¾à¦²à§€",
+        "url": "kumarkhali.kushtia.gov.bd"
+    },
+    {
+        "id": "198",
+        "district_id": "25",
+        "name": "Khoksa",
+        "bn_name": "à¦–à§‹à¦•à¦¸à¦¾",
+        "url": "khoksa.kushtia.gov.bd"
+    },
+    {
+        "id": "199",
+        "district_id": "25",
+        "name": "Mirpur",
+        "bn_name": "à¦®à¦¿à¦°à¦ªà§à¦°",
+        "url": "mirpurkushtia.kushtia.gov.bd"
+    },
+    {
+        "id": "200",
+        "district_id": "25",
+        "name": "Daulatpur",
+        "bn_name": "à¦¦à§Œà¦²à¦¤à¦ªà§à¦°",
+        "url": "daulatpur.kushtia.gov.bd"
+    },
+    {
+        "id": "201",
+        "district_id": "25",
+        "name": "Bheramara",
+        "bn_name": "à¦­à§‡à¦¡à¦¼à¦¾à¦®à¦¾à¦°à¦¾",
+        "url": "bheramara.kushtia.gov.bd"
+    },
+    {
+        "id": "202",
+        "district_id": "26",
+        "name": "Shalikha",
+        "bn_name": "à¦¶à¦¾à¦²à¦¿à¦–à¦¾",
+        "url": "shalikha.magura.gov.bd"
+    },
+    {
+        "id": "203",
+        "district_id": "26",
+        "name": "Sreepur",
+        "bn_name": "à¦¶à§à¦°à§€à¦ªà§à¦°",
+        "url": "sreepur.magura.gov.bd"
+    },
+    {
+        "id": "204",
+        "district_id": "26",
+        "name": "Magura Sadar",
+        "bn_name": "à¦®à¦¾à¦—à§à¦°à¦¾ à¦¸à¦¦à¦°",
+        "url": "magurasadar.magura.gov.bd"
+    },
+    {
+        "id": "205",
+        "district_id": "26",
+        "name": "Mohammadpur",
+        "bn_name": "à¦®à¦¹à¦®à§à¦®à¦¦à¦ªà§à¦°",
+        "url": "mohammadpur.magura.gov.bd"
+    },
+    {
+        "id": "206",
+        "district_id": "27",
+        "name": "Paikgasa",
+        "bn_name": "à¦ªà¦¾à¦‡à¦•à¦—à¦¾à¦›à¦¾",
+        "url": "paikgasa.khulna.gov.bd"
+    },
+    {
+        "id": "207",
+        "district_id": "27",
+        "name": "Fultola",
+        "bn_name": "à¦«à§à¦²à¦¤à¦²à¦¾",
+        "url": "fultola.khulna.gov.bd"
+    },
+    {
+        "id": "208",
+        "district_id": "27",
+        "name": "Digholia",
+        "bn_name": "à¦¦à¦¿à¦˜à¦²à¦¿à§Ÿà¦¾",
+        "url": "digholia.khulna.gov.bd"
+    },
+    {
+        "id": "209",
+        "district_id": "27",
+        "name": "Rupsha",
+        "bn_name": "à¦°à§‚à¦ªà¦¸à¦¾",
+        "url": "rupsha.khulna.gov.bd"
+    },
+    {
+        "id": "210",
+        "district_id": "27",
+        "name": "Terokhada",
+        "bn_name": "à¦¤à§‡à¦°à¦–à¦¾à¦¦à¦¾",
+        "url": "terokhada.khulna.gov.bd"
+    },
+    {
+        "id": "211",
+        "district_id": "27",
+        "name": "Dumuria",
+        "bn_name": "à¦¡à§à¦®à§à¦°à¦¿à§Ÿà¦¾",
+        "url": "dumuria.khulna.gov.bd"
+    },
+    {
+        "id": "212",
+        "district_id": "27",
+        "name": "Botiaghata",
+        "bn_name": "à¦¬à¦Ÿà¦¿à¦¯à¦¼à¦¾à¦˜à¦¾à¦Ÿà¦¾",
+        "url": "botiaghata.khulna.gov.bd"
+    },
+    {
+        "id": "213",
+        "district_id": "27",
+        "name": "Dakop",
+        "bn_name": "à¦¦à¦¾à¦•à§‹à¦ª",
+        "url": "dakop.khulna.gov.bd"
+    },
+    {
+        "id": "214",
+        "district_id": "27",
+        "name": "Koyra",
+        "bn_name": "à¦•à§Ÿà¦°à¦¾",
+        "url": "koyra.khulna.gov.bd"
+    },
+    {
+        "id": "215",
+        "district_id": "28",
+        "name": "Fakirhat",
+        "bn_name": "à¦«à¦•à¦¿à¦°à¦¹à¦¾à¦Ÿ",
+        "url": "fakirhat.bagerhat.gov.bd"
+    },
+    {
+        "id": "216",
+        "district_id": "28",
+        "name": "Bagerhat Sadar",
+        "bn_name": "à¦¬à¦¾à¦—à§‡à¦°à¦¹à¦¾à¦Ÿ à¦¸à¦¦à¦°",
+        "url": "sadar.bagerhat.gov.bd"
+    },
+    {
+        "id": "217",
+        "district_id": "28",
+        "name": "Mollahat",
+        "bn_name": "à¦®à§‹à¦²à§à¦²à¦¾à¦¹à¦¾à¦Ÿ",
+        "url": "mollahat.bagerhat.gov.bd"
+    },
+    {
+        "id": "218",
+        "district_id": "28",
+        "name": "Sarankhola",
+        "bn_name": "à¦¶à¦°à¦£à¦–à§‹à¦²à¦¾",
+        "url": "sarankhola.bagerhat.gov.bd"
+    },
+    {
+        "id": "219",
+        "district_id": "28",
+        "name": "Rampal",
+        "bn_name": "à¦°à¦¾à¦®à¦ªà¦¾à¦²",
+        "url": "rampal.bagerhat.gov.bd"
+    },
+    {
+        "id": "220",
+        "district_id": "28",
+        "name": "Morrelganj",
+        "bn_name": "à¦®à§‹à§œà§‡à¦²à¦—à¦žà§à¦œ",
+        "url": "morrelganj.bagerhat.gov.bd"
+    },
+    {
+        "id": "221",
+        "district_id": "28",
+        "name": "Kachua",
+        "bn_name": "à¦•à¦šà§à§Ÿà¦¾",
+        "url": "kachua.bagerhat.gov.bd"
+    },
+    {
+        "id": "222",
+        "district_id": "28",
+        "name": "Mongla",
+        "bn_name": "à¦®à§‹à¦‚à¦²à¦¾",
+        "url": "mongla.bagerhat.gov.bd"
+    },
+    {
+        "id": "223",
+        "district_id": "28",
+        "name": "Chitalmari",
+        "bn_name": "à¦šà¦¿à¦¤à¦²à¦®à¦¾à¦°à§€",
+        "url": "chitalmari.bagerhat.gov.bd"
+    },
+    {
+        "id": "224",
+        "district_id": "29",
+        "name": "Jhenaidah Sadar",
+        "bn_name": "à¦à¦¿à¦¨à¦¾à¦‡à¦¦à¦¹ à¦¸à¦¦à¦°",
+        "url": "sadar.jhenaidah.gov.bd"
+    },
+    {
+        "id": "225",
+        "district_id": "29",
+        "name": "Shailkupa",
+        "bn_name": "à¦¶à§ˆà¦²à¦•à§à¦ªà¦¾",
+        "url": "shailkupa.jhenaidah.gov.bd"
+    },
+    {
+        "id": "226",
+        "district_id": "29",
+        "name": "Harinakundu",
+        "bn_name": "à¦¹à¦°à¦¿à¦£à¦¾à¦•à§à¦¨à§à¦¡à§",
+        "url": "harinakundu.jhenaidah.gov.bd"
+    },
+    {
+        "id": "227",
+        "district_id": "29",
+        "name": "Kaliganj",
+        "bn_name": "à¦•à¦¾à¦²à§€à¦—à¦žà§à¦œ",
+        "url": "kaliganj.jhenaidah.gov.bd"
+    },
+    {
+        "id": "228",
+        "district_id": "29",
+        "name": "Kotchandpur",
+        "bn_name": "à¦•à§‹à¦Ÿà¦šà¦¾à¦à¦¦à¦ªà§à¦°",
+        "url": "kotchandpur.jhenaidah.gov.bd"
+    },
+    {
+        "id": "229",
+        "district_id": "29",
+        "name": "Moheshpur",
+        "bn_name": "à¦®à¦¹à§‡à¦¶à¦ªà§à¦°",
+        "url": "moheshpur.jhenaidah.gov.bd"
+    },
+    {
+        "id": "230",
+        "district_id": "30",
+        "name": "Jhalakathi Sadar",
+        "bn_name": "à¦à¦¾à¦²à¦•à¦¾à¦ à¦¿ à¦¸à¦¦à¦°",
+        "url": "sadar.jhalakathi.gov.bd"
+    },
+    {
+        "id": "231",
+        "district_id": "30",
+        "name": "Kathalia",
+        "bn_name": "à¦•à¦¾à¦ à¦¾à¦²à¦¿à§Ÿà¦¾",
+        "url": "kathalia.jhalakathi.gov.bd"
+    },
+    {
+        "id": "232",
+        "district_id": "30",
+        "name": "Nalchity",
+        "bn_name": "à¦¨à¦²à¦›à¦¿à¦Ÿà¦¿",
+        "url": "nalchity.jhalakathi.gov.bd"
+    },
+    {
+        "id": "233",
+        "district_id": "30",
+        "name": "Rajapur",
+        "bn_name": "à¦°à¦¾à¦œà¦¾à¦ªà§à¦°",
+        "url": "rajapur.jhalakathi.gov.bd"
+    },
+    {
+        "id": "234",
+        "district_id": "31",
+        "name": "Bauphal",
+        "bn_name": "à¦¬à¦¾à¦‰à¦«à¦²",
+        "url": "bauphal.patuakhali.gov.bd"
+    },
+    {
+        "id": "235",
+        "district_id": "31",
+        "name": "Patuakhali Sadar",
+        "bn_name": "à¦ªà¦Ÿà§à§Ÿà¦¾à¦–à¦¾à¦²à§€ à¦¸à¦¦à¦°",
+        "url": "sadar.patuakhali.gov.bd"
+    },
+    {
+        "id": "236",
+        "district_id": "31",
+        "name": "Dumki",
+        "bn_name": "à¦¦à§à¦®à¦•à¦¿",
+        "url": "dumki.patuakhali.gov.bd"
+    },
+    {
+        "id": "237",
+        "district_id": "31",
+        "name": "Dashmina",
+        "bn_name": "à¦¦à¦¶à¦®à¦¿à¦¨à¦¾",
+        "url": "dashmina.patuakhali.gov.bd"
+    },
+    {
+        "id": "238",
+        "district_id": "31",
+        "name": "Kalapara",
+        "bn_name": "à¦•à¦²à¦¾à¦ªà¦¾à¦¡à¦¼à¦¾",
+        "url": "kalapara.patuakhali.gov.bd"
+    },
+    {
+        "id": "239",
+        "district_id": "31",
+        "name": "Mirzaganj",
+        "bn_name": "à¦®à¦¿à¦°à§à¦œà¦¾à¦—à¦žà§à¦œ",
+        "url": "mirzaganj.patuakhali.gov.bd"
+    },
+    {
+        "id": "240",
+        "district_id": "31",
+        "name": "Galachipa",
+        "bn_name": "à¦—à¦²à¦¾à¦šà¦¿à¦ªà¦¾",
+        "url": "galachipa.patuakhali.gov.bd"
+    },
+    {
+        "id": "241",
+        "district_id": "31",
+        "name": "Rangabali",
+        "bn_name": "à¦°à¦¾à¦™à§à¦—à¦¾à¦¬à¦¾à¦²à§€",
+        "url": "rangabali.patuakhali.gov.bd"
+    },
+    {
+        "id": "242",
+        "district_id": "32",
+        "name": "Pirojpur Sadar",
+        "bn_name": "à¦ªà¦¿à¦°à§‹à¦œà¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.pirojpur.gov.bd"
+    },
+    {
+        "id": "243",
+        "district_id": "32",
+        "name": "Nazirpur",
+        "bn_name": "à¦¨à¦¾à¦œà¦¿à¦°à¦ªà§à¦°",
+        "url": "nazirpur.pirojpur.gov.bd"
+    },
+    {
+        "id": "244",
+        "district_id": "32",
+        "name": "Kawkhali",
+        "bn_name": "à¦•à¦¾à¦‰à¦–à¦¾à¦²à§€",
+        "url": "kawkhali.pirojpur.gov.bd"
+    },
+    {
+        "id": "245",
+        "district_id": "32",
+        "name": "Zianagar",
+        "bn_name": "à¦œà¦¿à§Ÿà¦¾à¦¨à¦—à¦°",
+        "url": "zianagar.pirojpur.gov.bd"
+    },
+    {
+        "id": "246",
+        "district_id": "32",
+        "name": "Bhandaria",
+        "bn_name": "à¦­à¦¾à¦¨à§à¦¡à¦¾à¦°à¦¿à§Ÿà¦¾",
+        "url": "bhandaria.pirojpur.gov.bd"
+    },
+    {
+        "id": "247",
+        "district_id": "32",
+        "name": "Mathbaria",
+        "bn_name": "à¦®à¦ à¦¬à¦¾à§œà§€à§Ÿà¦¾",
+        "url": "mathbaria.pirojpur.gov.bd"
+    },
+    {
+        "id": "248",
+        "district_id": "32",
+        "name": "Nesarabad",
+        "bn_name": "à¦¨à§‡à¦›à¦¾à¦°à¦¾à¦¬à¦¾à¦¦",
+        "url": "nesarabad.pirojpur.gov.bd"
+    },
+    {
+        "id": "249",
+        "district_id": "33",
+        "name": "Barisal Sadar",
+        "bn_name": "à¦¬à¦°à¦¿à¦¶à¦¾à¦² à¦¸à¦¦à¦°",
+        "url": "barisalsadar.barisal.gov.bd"
+    },
+    {
+        "id": "250",
+        "district_id": "33",
+        "name": "Bakerganj",
+        "bn_name": "à¦¬à¦¾à¦•à§‡à¦°à¦—à¦žà§à¦œ",
+        "url": "bakerganj.barisal.gov.bd"
+    },
+    {
+        "id": "251",
+        "district_id": "33",
+        "name": "Babuganj",
+        "bn_name": "à¦¬à¦¾à¦¬à§à¦—à¦žà§à¦œ",
+        "url": "babuganj.barisal.gov.bd"
+    },
+    {
+        "id": "252",
+        "district_id": "33",
+        "name": "Wazirpur",
+        "bn_name": "à¦‰à¦œà¦¿à¦°à¦ªà§à¦°",
+        "url": "wazirpur.barisal.gov.bd"
+    },
+    {
+        "id": "253",
+        "district_id": "33",
+        "name": "Banaripara",
+        "bn_name": "à¦¬à¦¾à¦¨à¦¾à¦°à§€à¦ªà¦¾à§œà¦¾",
+        "url": "banaripara.barisal.gov.bd"
+    },
+    {
+        "id": "254",
+        "district_id": "33",
+        "name": "Gournadi",
+        "bn_name": "à¦—à§Œà¦°à¦¨à¦¦à§€",
+        "url": "gournadi.barisal.gov.bd"
+    },
+    {
+        "id": "255",
+        "district_id": "33",
+        "name": "Agailjhara",
+        "bn_name": "à¦†à¦—à§ˆà¦²à¦à¦¾à§œà¦¾",
+        "url": "agailjhara.barisal.gov.bd"
+    },
+    {
+        "id": "256",
+        "district_id": "33",
+        "name": "Mehendiganj",
+        "bn_name": "à¦®à§‡à¦¹à§‡à¦¨à§à¦¦à¦¿à¦—à¦žà§à¦œ",
+        "url": "mehendiganj.barisal.gov.bd"
+    },
+    {
+        "id": "257",
+        "district_id": "33",
+        "name": "Muladi",
+        "bn_name": "à¦®à§à¦²à¦¾à¦¦à§€",
+        "url": "muladi.barisal.gov.bd"
+    },
+    {
+        "id": "258",
+        "district_id": "33",
+        "name": "Hizla",
+        "bn_name": "à¦¹à¦¿à¦œà¦²à¦¾",
+        "url": "hizla.barisal.gov.bd"
+    },
+    {
+        "id": "259",
+        "district_id": "34",
+        "name": "Bhola Sadar",
+        "bn_name": "à¦­à§‹à¦²à¦¾ à¦¸à¦¦à¦°",
+        "url": "sadar.bhola.gov.bd"
+    },
+    {
+        "id": "260",
+        "district_id": "34",
+        "name": "Borhan Sddin",
+        "bn_name": "à¦¬à§‹à¦°à¦¹à¦¾à¦¨ à¦‰à¦¦à§à¦¦à¦¿à¦¨",
+        "url": "borhanuddin.bhola.gov.bd"
+    },
+    {
+        "id": "261",
+        "district_id": "34",
+        "name": "Charfesson",
+        "bn_name": "à¦šà¦°à¦«à§à¦¯à¦¾à¦¶à¦¨",
+        "url": "charfesson.bhola.gov.bd"
+    },
+    {
+        "id": "262",
+        "district_id": "34",
+        "name": "Doulatkhan",
+        "bn_name": "à¦¦à§Œà¦²à¦¤à¦–à¦¾à¦¨",
+        "url": "doulatkhan.bhola.gov.bd"
+    },
+    {
+        "id": "263",
+        "district_id": "34",
+        "name": "Monpura",
+        "bn_name": "à¦®à¦¨à¦ªà§à¦°à¦¾",
+        "url": "monpura.bhola.gov.bd"
+    },
+    {
+        "id": "264",
+        "district_id": "34",
+        "name": "Tazumuddin",
+        "bn_name": "à¦¤à¦œà§à¦®à¦¦à§à¦¦à¦¿à¦¨",
+        "url": "tazumuddin.bhola.gov.bd"
+    },
+    {
+        "id": "265",
+        "district_id": "34",
+        "name": "Lalmohan",
+        "bn_name": "à¦²à¦¾à¦²à¦®à§‹à¦¹à¦¨",
+        "url": "lalmohan.bhola.gov.bd"
+    },
+    {
+        "id": "266",
+        "district_id": "35",
+        "name": "Amtali",
+        "bn_name": "à¦†à¦®à¦¤à¦²à§€",
+        "url": "amtali.barguna.gov.bd"
+    },
+    {
+        "id": "267",
+        "district_id": "35",
+        "name": "Barguna Sadar",
+        "bn_name": "à¦¬à¦°à¦—à§à¦¨à¦¾ à¦¸à¦¦à¦°",
+        "url": "sadar.barguna.gov.bd"
+    },
+    {
+        "id": "268",
+        "district_id": "35",
+        "name": "Betagi",
+        "bn_name": "à¦¬à§‡à¦¤à¦¾à¦—à§€",
+        "url": "betagi.barguna.gov.bd"
+    },
+    {
+        "id": "269",
+        "district_id": "35",
+        "name": "Bamna",
+        "bn_name": "à¦¬à¦¾à¦®à¦¨à¦¾",
+        "url": "bamna.barguna.gov.bd"
+    },
+    {
+        "id": "270",
+        "district_id": "35",
+        "name": "Pathorghata",
+        "bn_name": "à¦ªà¦¾à¦¥à¦°à¦˜à¦¾à¦Ÿà¦¾",
+        "url": "pathorghata.barguna.gov.bd"
+    },
+    {
+        "id": "271",
+        "district_id": "35",
+        "name": "Taltali",
+        "bn_name": "à¦¤à¦¾à¦²à¦¤à¦²à¦¿",
+        "url": "taltali.barguna.gov.bd"
+    },
+    {
+        "id": "272",
+        "district_id": "36",
+        "name": "Balaganj",
+        "bn_name": "à¦¬à¦¾à¦²à¦¾à¦—à¦žà§à¦œ",
+        "url": "balaganj.sylhet.gov.bd"
+    },
+    {
+        "id": "273",
+        "district_id": "36",
+        "name": "Beanibazar",
+        "bn_name": "à¦¬à¦¿à§Ÿà¦¾à¦¨à§€à¦¬à¦¾à¦œà¦¾à¦°",
+        "url": "beanibazar.sylhet.gov.bd"
+    },
+    {
+        "id": "274",
+        "district_id": "36",
+        "name": "Bishwanath",
+        "bn_name": "à¦¬à¦¿à¦¶à§à¦¬à¦¨à¦¾à¦¥",
+        "url": "bishwanath.sylhet.gov.bd"
+    },
+    {
+        "id": "275",
+        "district_id": "36",
+        "name": "Companiganj",
+        "bn_name": "à¦•à§‹à¦®à§à¦ªà¦¾à¦¨à§€à¦—à¦žà§à¦œ",
+        "url": "companiganj.sylhet.gov.bd"
+    },
+    {
+        "id": "276",
+        "district_id": "36",
+        "name": "Fenchuganj",
+        "bn_name": "à¦«à§‡à¦žà§à¦šà§à¦—à¦žà§à¦œ",
+        "url": "fenchuganj.sylhet.gov.bd"
+    },
+    {
+        "id": "277",
+        "district_id": "36",
+        "name": "Golapganj",
+        "bn_name": "à¦—à§‹à¦²à¦¾à¦ªà¦—à¦žà§à¦œ",
+        "url": "golapganj.sylhet.gov.bd"
+    },
+    {
+        "id": "278",
+        "district_id": "36",
+        "name": "Gowainghat",
+        "bn_name": "à¦—à§‹à§Ÿà¦¾à¦‡à¦¨à¦˜à¦¾à¦Ÿ",
+        "url": "gowainghat.sylhet.gov.bd"
+    },
+    {
+        "id": "279",
+        "district_id": "36",
+        "name": "Jaintiapur",
+        "bn_name": "à¦œà§ˆà¦¨à§à¦¤à¦¾à¦ªà§à¦°",
+        "url": "jaintiapur.sylhet.gov.bd"
+    },
+    {
+        "id": "280",
+        "district_id": "36",
+        "name": "Kanaighat",
+        "bn_name": "à¦•à¦¾à¦¨à¦¾à¦‡à¦˜à¦¾à¦Ÿ",
+        "url": "kanaighat.sylhet.gov.bd"
+    },
+    {
+        "id": "281",
+        "district_id": "36",
+        "name": "Sylhet Sadar",
+        "bn_name": "à¦¸à¦¿à¦²à§‡à¦Ÿ à¦¸à¦¦à¦°",
+        "url": "sylhetsadar.sylhet.gov.bd"
+    },
+    {
+        "id": "282",
+        "district_id": "36",
+        "name": "Zakiganj",
+        "bn_name": "à¦œà¦•à¦¿à¦—à¦žà§à¦œ",
+        "url": "zakiganj.sylhet.gov.bd"
+    },
+    {
+        "id": "283",
+        "district_id": "36",
+        "name": "Dakshinsurma",
+        "bn_name": "à¦¦à¦•à§à¦·à¦¿à¦£ à¦¸à§à¦°à¦®à¦¾",
+        "url": "dakshinsurma.sylhet.gov.bd"
+    },
+    {
+        "id": "284",
+        "district_id": "36",
+        "name": "Osmaninagar",
+        "bn_name": "à¦“à¦¸à¦®à¦¾à¦¨à§€ à¦¨à¦—à¦°",
+        "url": "osmaninagar.sylhet.gov.bd"
+    },
+    {
+        "id": "285",
+        "district_id": "37",
+        "name": "Barlekha",
+        "bn_name": "à¦¬à§œà¦²à§‡à¦–à¦¾",
+        "url": "barlekha.moulvibazar.gov.bd"
+    },
+    {
+        "id": "286",
+        "district_id": "37",
+        "name": "Kamolganj",
+        "bn_name": "à¦•à¦®à¦²à¦—à¦žà§à¦œ",
+        "url": "kamolganj.moulvibazar.gov.bd"
+    },
+    {
+        "id": "287",
+        "district_id": "37",
+        "name": "Kulaura",
+        "bn_name": "à¦•à§à¦²à¦¾à¦‰à§œà¦¾",
+        "url": "kulaura.moulvibazar.gov.bd"
+    },
+    {
+        "id": "288",
+        "district_id": "37",
+        "name": "Moulvibazar Sadar",
+        "bn_name": "à¦®à§Œà¦²à¦­à§€à¦¬à¦¾à¦œà¦¾à¦° à¦¸à¦¦à¦°",
+        "url": "moulvibazarsadar.moulvibazar.gov.bd"
+    },
+    {
+        "id": "289",
+        "district_id": "37",
+        "name": "Rajnagar",
+        "bn_name": "à¦°à¦¾à¦œà¦¨à¦—à¦°",
+        "url": "rajnagar.moulvibazar.gov.bd"
+    },
+    {
+        "id": "290",
+        "district_id": "37",
+        "name": "Sreemangal",
+        "bn_name": "à¦¶à§à¦°à§€à¦®à¦™à§à¦—à¦²",
+        "url": "sreemangal.moulvibazar.gov.bd"
+    },
+    {
+        "id": "291",
+        "district_id": "37",
+        "name": "Juri",
+        "bn_name": "à¦œà§à§œà§€",
+        "url": "juri.moulvibazar.gov.bd"
+    },
+    {
+        "id": "292",
+        "district_id": "38",
+        "name": "Nabiganj",
+        "bn_name": "à¦¨à¦¬à§€à¦—à¦žà§à¦œ",
+        "url": "nabiganj.habiganj.gov.bd"
+    },
+    {
+        "id": "293",
+        "district_id": "38",
+        "name": "Bahubal",
+        "bn_name": "à¦¬à¦¾à¦¹à§à¦¬à¦²",
+        "url": "bahubal.habiganj.gov.bd"
+    },
+    {
+        "id": "294",
+        "district_id": "38",
+        "name": "Ajmiriganj",
+        "bn_name": "à¦†à¦œà¦®à¦¿à¦°à§€à¦—à¦žà§à¦œ",
+        "url": "ajmiriganj.habiganj.gov.bd"
+    },
+    {
+        "id": "295",
+        "district_id": "38",
+        "name": "Baniachong",
+        "bn_name": "à¦¬à¦¾à¦¨à¦¿à§Ÿà¦¾à¦šà¦‚",
+        "url": "baniachong.habiganj.gov.bd"
+    },
+    {
+        "id": "296",
+        "district_id": "38",
+        "name": "Lakhai",
+        "bn_name": "à¦²à¦¾à¦–à¦¾à¦‡",
+        "url": "lakhai.habiganj.gov.bd"
+    },
+    {
+        "id": "297",
+        "district_id": "38",
+        "name": "Chunarughat",
+        "bn_name": "à¦šà§à¦¨à¦¾à¦°à§à¦˜à¦¾à¦Ÿ",
+        "url": "chunarughat.habiganj.gov.bd"
+    },
+    {
+        "id": "298",
+        "district_id": "38",
+        "name": "Habiganj Sadar",
+        "bn_name": "à¦¹à¦¬à¦¿à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "habiganjsadar.habiganj.gov.bd"
+    },
+    {
+        "id": "299",
+        "district_id": "38",
+        "name": "Madhabpur",
+        "bn_name": "à¦®à¦¾à¦§à¦¬à¦ªà§à¦°",
+        "url": "madhabpur.habiganj.gov.bd"
+    },
+    {
+        "id": "300",
+        "district_id": "39",
+        "name": "Sunamganj Sadar",
+        "bn_name": "à¦¸à§à¦¨à¦¾à¦®à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "sadar.sunamganj.gov.bd"
+    },
+    {
+        "id": "301",
+        "district_id": "39",
+        "name": "South Sunamganj",
+        "bn_name": "à¦¦à¦•à§à¦·à¦¿à¦£ à¦¸à§à¦¨à¦¾à¦®à¦—à¦žà§à¦œ",
+        "url": "southsunamganj.sunamganj.gov.bd"
+    },
+    {
+        "id": "302",
+        "district_id": "39",
+        "name": "Bishwambarpur",
+        "bn_name": "à¦¬à¦¿à¦¶à§à¦¬à¦®à§à¦­à¦°à¦ªà§à¦°",
+        "url": "bishwambarpur.sunamganj.gov.bd"
+    },
+    {
+        "id": "303",
+        "district_id": "39",
+        "name": "Chhatak",
+        "bn_name": "à¦›à¦¾à¦¤à¦•",
+        "url": "chhatak.sunamganj.gov.bd"
+    },
+    {
+        "id": "304",
+        "district_id": "39",
+        "name": "Jagannathpur",
+        "bn_name": "à¦œà¦—à¦¨à§à¦¨à¦¾à¦¥à¦ªà§à¦°",
+        "url": "jagannathpur.sunamganj.gov.bd"
+    },
+    {
+        "id": "305",
+        "district_id": "39",
+        "name": "Dowarabazar",
+        "bn_name": "à¦¦à§‹à¦¯à¦¼à¦¾à¦°à¦¾à¦¬à¦¾à¦œà¦¾à¦°",
+        "url": "dowarabazar.sunamganj.gov.bd"
+    },
+    {
+        "id": "306",
+        "district_id": "39",
+        "name": "Tahirpur",
+        "bn_name": "à¦¤à¦¾à¦¹à¦¿à¦°à¦ªà§à¦°",
+        "url": "tahirpur.sunamganj.gov.bd"
+    },
+    {
+        "id": "307",
+        "district_id": "39",
+        "name": "Dharmapasha",
+        "bn_name": "à¦§à¦°à§à¦®à¦ªà¦¾à¦¶à¦¾",
+        "url": "dharmapasha.sunamganj.gov.bd"
+    },
+    {
+        "id": "308",
+        "district_id": "39",
+        "name": "Jamalganj",
+        "bn_name": "à¦œà¦¾à¦®à¦¾à¦²à¦—à¦žà§à¦œ",
+        "url": "jamalganj.sunamganj.gov.bd"
+    },
+    {
+        "id": "309",
+        "district_id": "39",
+        "name": "Shalla",
+        "bn_name": "à¦¶à¦¾à¦²à§à¦²à¦¾",
+        "url": "shalla.sunamganj.gov.bd"
+    },
+    {
+        "id": "310",
+        "district_id": "39",
+        "name": "Derai",
+        "bn_name": "à¦¦à¦¿à¦°à¦¾à¦‡",
+        "url": "derai.sunamganj.gov.bd"
+    },
+    {
+        "id": "311",
+        "district_id": "40",
+        "name": "Belabo",
+        "bn_name": "à¦¬à§‡à¦²à¦¾à¦¬à§‹",
+        "url": "belabo.narsingdi.gov.bd"
+    },
+    {
+        "id": "312",
+        "district_id": "40",
+        "name": "Monohardi",
+        "bn_name": "à¦®à¦¨à§‹à¦¹à¦°à¦¦à§€",
+        "url": "monohardi.narsingdi.gov.bd"
+    },
+    {
+        "id": "313",
+        "district_id": "40",
+        "name": "Narsingdi Sadar",
+        "bn_name": "à¦¨à¦°à¦¸à¦¿à¦‚à¦¦à§€ à¦¸à¦¦à¦°",
+        "url": "narsingdisadar.narsingdi.gov.bd"
+    },
+    {
+        "id": "314",
+        "district_id": "40",
+        "name": "Palash",
+        "bn_name": "à¦ªà¦²à¦¾à¦¶",
+        "url": "palash.narsingdi.gov.bd"
+    },
+    {
+        "id": "315",
+        "district_id": "40",
+        "name": "Raipura",
+        "bn_name": "à¦°à¦¾à¦¯à¦¼à¦ªà§à¦°à¦¾",
+        "url": "raipura.narsingdi.gov.bd"
+    },
+    {
+        "id": "316",
+        "district_id": "40",
+        "name": "Shibpur",
+        "bn_name": "à¦¶à¦¿à¦¬à¦ªà§à¦°",
+        "url": "shibpur.narsingdi.gov.bd"
+    },
+    {
+        "id": "317",
+        "district_id": "41",
+        "name": "Kaliganj",
+        "bn_name": "à¦•à¦¾à¦²à§€à¦—à¦žà§à¦œ",
+        "url": "kaliganj.gazipur.gov.bd"
+    },
+    {
+        "id": "318",
+        "district_id": "41",
+        "name": "Kaliakair",
+        "bn_name": "à¦•à¦¾à¦²à¦¿à§Ÿà¦¾à¦•à§ˆà¦°",
+        "url": "kaliakair.gazipur.gov.bd"
+    },
+    {
+        "id": "319",
+        "district_id": "41",
+        "name": "Kapasia",
+        "bn_name": "à¦•à¦¾à¦ªà¦¾à¦¸à¦¿à§Ÿà¦¾",
+        "url": "kapasia.gazipur.gov.bd"
+    },
+    {
+        "id": "320",
+        "district_id": "41",
+        "name": "Gazipur Sadar",
+        "bn_name": "à¦—à¦¾à¦œà§€à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.gazipur.gov.bd"
+    },
+    {
+        "id": "321",
+        "district_id": "41",
+        "name": "Sreepur",
+        "bn_name": "à¦¶à§à¦°à§€à¦ªà§à¦°",
+        "url": "sreepur.gazipur.gov.bd"
+    },
+    {
+        "id": "322",
+        "district_id": "42",
+        "name": "Shariatpur Sadar",
+        "bn_name": "à¦¶à¦°à¦¿à§Ÿà¦¤à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.shariatpur.gov.bd"
+    },
+    {
+        "id": "323",
+        "district_id": "42",
+        "name": "Naria",
+        "bn_name": "à¦¨à§œà¦¿à§Ÿà¦¾",
+        "url": "naria.shariatpur.gov.bd"
+    },
+    {
+        "id": "324",
+        "district_id": "42",
+        "name": "Zajira",
+        "bn_name": "à¦œà¦¾à¦œà¦¿à¦°à¦¾",
+        "url": "zajira.shariatpur.gov.bd"
+    },
+    {
+        "id": "325",
+        "district_id": "42",
+        "name": "Gosairhat",
+        "bn_name": "à¦—à§‹à¦¸à¦¾à¦‡à¦°à¦¹à¦¾à¦Ÿ",
+        "url": "gosairhat.shariatpur.gov.bd"
+    },
+    {
+        "id": "326",
+        "district_id": "42",
+        "name": "Bhedarganj",
+        "bn_name": "à¦­à§‡à¦¦à¦°à¦—à¦žà§à¦œ",
+        "url": "bhedarganj.shariatpur.gov.bd"
+    },
+    {
+        "id": "327",
+        "district_id": "42",
+        "name": "Damudya",
+        "bn_name": "à¦¡à¦¾à¦®à§à¦¡à§à¦¯à¦¾",
+        "url": "damudya.shariatpur.gov.bd"
+    },
+    {
+        "id": "328",
+        "district_id": "43",
+        "name": "Araihazar",
+        "bn_name": "à¦†à¦¡à¦¼à¦¾à¦‡à¦¹à¦¾à¦œà¦¾à¦°",
+        "url": "araihazar.narayanganj.gov.bd"
+    },
+    {
+        "id": "329",
+        "district_id": "43",
+        "name": "Bandar",
+        "bn_name": "à¦¬à¦¨à§à¦¦à¦°",
+        "url": "bandar.narayanganj.gov.bd"
+    },
+    {
+        "id": "330",
+        "district_id": "43",
+        "name": "Narayanganj Sadar",
+        "bn_name": "à¦¨à¦¾à¦°à¦¾à§Ÿà¦¨à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "narayanganjsadar.narayanganj.gov.bd"
+    },
+    {
+        "id": "331",
+        "district_id": "43",
+        "name": "Rupganj",
+        "bn_name": "à¦°à§‚à¦ªà¦—à¦žà§à¦œ",
+        "url": "rupganj.narayanganj.gov.bd"
+    },
+    {
+        "id": "332",
+        "district_id": "43",
+        "name": "Sonargaon",
+        "bn_name": "à¦¸à§‹à¦¨à¦¾à¦°à¦—à¦¾à¦",
+        "url": "sonargaon.narayanganj.gov.bd"
+    },
+    {
+        "id": "333",
+        "district_id": "44",
+        "name": "Basail",
+        "bn_name": "à¦¬à¦¾à¦¸à¦¾à¦‡à¦²",
+        "url": "basail.tangail.gov.bd"
+    },
+    {
+        "id": "334",
+        "district_id": "44",
+        "name": "Bhuapur",
+        "bn_name": "à¦­à§à¦¯à¦¼à¦¾à¦ªà§à¦°",
+        "url": "bhuapur.tangail.gov.bd"
+    },
+    {
+        "id": "335",
+        "district_id": "44",
+        "name": "Delduar",
+        "bn_name": "à¦¦à§‡à¦²à¦¦à§à¦¯à¦¼à¦¾à¦°",
+        "url": "delduar.tangail.gov.bd"
+    },
+    {
+        "id": "336",
+        "district_id": "44",
+        "name": "Ghatail",
+        "bn_name": "à¦˜à¦¾à¦Ÿà¦¾à¦‡à¦²",
+        "url": "ghatail.tangail.gov.bd"
+    },
+    {
+        "id": "337",
+        "district_id": "44",
+        "name": "Gopalpur",
+        "bn_name": "à¦—à§‹à¦ªà¦¾à¦²à¦ªà§à¦°",
+        "url": "gopalpur.tangail.gov.bd"
+    },
+    {
+        "id": "338",
+        "district_id": "44",
+        "name": "Madhupur",
+        "bn_name": "à¦®à¦§à§à¦ªà§à¦°",
+        "url": "madhupur.tangail.gov.bd"
+    },
+    {
+        "id": "339",
+        "district_id": "44",
+        "name": "Mirzapur",
+        "bn_name": "à¦®à¦¿à¦°à§à¦œà¦¾à¦ªà§à¦°",
+        "url": "mirzapur.tangail.gov.bd"
+    },
+    {
+        "id": "340",
+        "district_id": "44",
+        "name": "Nagarpur",
+        "bn_name": "à¦¨à¦¾à¦—à¦°à¦ªà§à¦°",
+        "url": "nagarpur.tangail.gov.bd"
+    },
+    {
+        "id": "341",
+        "district_id": "44",
+        "name": "Sakhipur",
+        "bn_name": "à¦¸à¦–à¦¿à¦ªà§à¦°",
+        "url": "sakhipur.tangail.gov.bd"
+    },
+    {
+        "id": "342",
+        "district_id": "44",
+        "name": "Tangail Sadar",
+        "bn_name": "à¦Ÿà¦¾à¦™à§à¦—à¦¾à¦‡à¦² à¦¸à¦¦à¦°",
+        "url": "tangailsadar.tangail.gov.bd"
+    },
+    {
+        "id": "343",
+        "district_id": "44",
+        "name": "Kalihati",
+        "bn_name": "à¦•à¦¾à¦²à¦¿à¦¹à¦¾à¦¤à§€",
+        "url": "kalihati.tangail.gov.bd"
+    },
+    {
+        "id": "344",
+        "district_id": "44",
+        "name": "Dhanbari",
+        "bn_name": "à¦§à¦¨à¦¬à¦¾à§œà§€",
+        "url": "dhanbari.tangail.gov.bd"
+    },
+    {
+        "id": "345",
+        "district_id": "45",
+        "name": "Itna",
+        "bn_name": "à¦‡à¦Ÿà¦¨à¦¾",
+        "url": "itna.kishoreganj.gov.bd"
+    },
+    {
+        "id": "346",
+        "district_id": "45",
+        "name": "Katiadi",
+        "bn_name": "à¦•à¦Ÿà¦¿à§Ÿà¦¾à¦¦à§€",
+        "url": "katiadi.kishoreganj.gov.bd"
+    },
+    {
+        "id": "347",
+        "district_id": "45",
+        "name": "Bhairab",
+        "bn_name": "à¦­à§ˆà¦°à¦¬",
+        "url": "bhairab.kishoreganj.gov.bd"
+    },
+    {
+        "id": "348",
+        "district_id": "45",
+        "name": "Tarail",
+        "bn_name": "à¦¤à¦¾à§œà¦¾à¦‡à¦²",
+        "url": "tarail.kishoreganj.gov.bd"
+    },
+    {
+        "id": "349",
+        "district_id": "45",
+        "name": "Hossainpur",
+        "bn_name": "à¦¹à§‹à¦¸à§‡à¦¨à¦ªà§à¦°",
+        "url": "hossainpur.kishoreganj.gov.bd"
+    },
+    {
+        "id": "350",
+        "district_id": "45",
+        "name": "Pakundia",
+        "bn_name": "à¦ªà¦¾à¦•à§à¦¨à§à¦¦à¦¿à§Ÿà¦¾",
+        "url": "pakundia.kishoreganj.gov.bd"
+    },
+    {
+        "id": "351",
+        "district_id": "45",
+        "name": "Kuliarchar",
+        "bn_name": "à¦•à§à¦²à¦¿à§Ÿà¦¾à¦°à¦šà¦°",
+        "url": "kuliarchar.kishoreganj.gov.bd"
+    },
+    {
+        "id": "352",
+        "district_id": "45",
+        "name": "Kishoreganj Sadar",
+        "bn_name": "à¦•à¦¿à¦¶à§‹à¦°à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "kishoreganjsadar.kishoreganj.gov.bd"
+    },
+    {
+        "id": "353",
+        "district_id": "45",
+        "name": "Karimgonj",
+        "bn_name": "à¦•à¦°à¦¿à¦®à¦—à¦žà§à¦œ",
+        "url": "karimgonj.kishoreganj.gov.bd"
+    },
+    {
+        "id": "354",
+        "district_id": "45",
+        "name": "Bajitpur",
+        "bn_name": "à¦¬à¦¾à¦œà¦¿à¦¤à¦ªà§à¦°",
+        "url": "bajitpur.kishoreganj.gov.bd"
+    },
+    {
+        "id": "355",
+        "district_id": "45",
+        "name": "Austagram",
+        "bn_name": "à¦…à¦·à§à¦Ÿà¦—à§à¦°à¦¾à¦®",
+        "url": "austagram.kishoreganj.gov.bd"
+    },
+    {
+        "id": "356",
+        "district_id": "45",
+        "name": "Mithamoin",
+        "bn_name": "à¦®à¦¿à¦ à¦¾à¦®à¦‡à¦¨",
+        "url": "mithamoin.kishoreganj.gov.bd"
+    },
+    {
+        "id": "357",
+        "district_id": "45",
+        "name": "Nikli",
+        "bn_name": "à¦¨à¦¿à¦•à¦²à§€",
+        "url": "nikli.kishoreganj.gov.bd"
+    },
+    {
+        "id": "358",
+        "district_id": "46",
+        "name": "Harirampur",
+        "bn_name": "à¦¹à¦°à¦¿à¦°à¦¾à¦®à¦ªà§à¦°",
+        "url": "harirampur.manikganj.gov.bd"
+    },
+    {
+        "id": "359",
+        "district_id": "46",
+        "name": "Saturia",
+        "bn_name": "à¦¸à¦¾à¦Ÿà§à¦°à¦¿à§Ÿà¦¾",
+        "url": "saturia.manikganj.gov.bd"
+    },
+    {
+        "id": "360",
+        "district_id": "46",
+        "name": "Manikganj Sadar",
+        "bn_name": "à¦®à¦¾à¦¨à¦¿à¦•à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "sadar.manikganj.gov.bd"
+    },
+    {
+        "id": "361",
+        "district_id": "46",
+        "name": "Gior",
+        "bn_name": "à¦˜à¦¿à¦“à¦°",
+        "url": "gior.manikganj.gov.bd"
+    },
+    {
+        "id": "362",
+        "district_id": "46",
+        "name": "Shibaloy",
+        "bn_name": "à¦¶à¦¿à¦¬à¦¾à¦²à§Ÿ",
+        "url": "shibaloy.manikganj.gov.bd"
+    },
+    {
+        "id": "363",
+        "district_id": "46",
+        "name": "Doulatpur",
+        "bn_name": "à¦¦à§Œà¦²à¦¤à¦ªà§à¦°",
+        "url": "doulatpur.manikganj.gov.bd"
+    },
+    {
+        "id": "364",
+        "district_id": "46",
+        "name": "Singiar",
+        "bn_name": "à¦¸à¦¿à¦‚à¦—à¦¾à¦‡à¦°",
+        "url": "singiar.manikganj.gov.bd"
+    },
+    {
+        "id": "365",
+        "district_id": "47",
+        "name": "Savar",
+        "bn_name": "à¦¸à¦¾à¦­à¦¾à¦°",
+        "url": "savar.dhaka.gov.bd"
+    },
+    {
+        "id": "366",
+        "district_id": "47",
+        "name": "Dhamrai",
+        "bn_name": "à¦§à¦¾à¦®à¦°à¦¾à¦‡",
+        "url": "dhamrai.dhaka.gov.bd"
+    },
+    {
+        "id": "367",
+        "district_id": "47",
+        "name": "Keraniganj",
+        "bn_name": "à¦•à§‡à¦°à¦¾à¦£à§€à¦—à¦žà§à¦œ",
+        "url": "keraniganj.dhaka.gov.bd"
+    },
+    {
+        "id": "368",
+        "district_id": "47",
+        "name": "Nawabganj",
+        "bn_name": "à¦¨à¦¬à¦¾à¦¬à¦—à¦žà§à¦œ",
+        "url": "nawabganj.dhaka.gov.bd"
+    },
+    {
+        "id": "369",
+        "district_id": "47",
+        "name": "Dohar",
+        "bn_name": "à¦¦à§‹à¦¹à¦¾à¦°",
+        "url": "dohar.dhaka.gov.bd"
+    },
+    {
+        "id": "370",
+        "district_id": "48",
+        "name": "Munshiganj Sadar",
+        "bn_name": "à¦®à§à¦¨à§à¦¸à¦¿à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "sadar.munshiganj.gov.bd"
+    },
+    {
+        "id": "371",
+        "district_id": "48",
+        "name": "Sreenagar",
+        "bn_name": "à¦¶à§à¦°à§€à¦¨à¦—à¦°",
+        "url": "sreenagar.munshiganj.gov.bd"
+    },
+    {
+        "id": "372",
+        "district_id": "48",
+        "name": "Sirajdikhan",
+        "bn_name": "à¦¸à¦¿à¦°à¦¾à¦œà¦¦à¦¿à¦–à¦¾à¦¨",
+        "url": "sirajdikhan.munshiganj.gov.bd"
+    },
+    {
+        "id": "373",
+        "district_id": "48",
+        "name": "Louhajanj",
+        "bn_name": "à¦²à§Œà¦¹à¦œà¦‚",
+        "url": "louhajanj.munshiganj.gov.bd"
+    },
+    {
+        "id": "374",
+        "district_id": "48",
+        "name": "Gajaria",
+        "bn_name": "à¦—à¦œà¦¾à¦°à¦¿à§Ÿà¦¾",
+        "url": "gajaria.munshiganj.gov.bd"
+    },
+    {
+        "id": "375",
+        "district_id": "48",
+        "name": "Tongibari",
+        "bn_name": "à¦Ÿà¦‚à¦—à§€à¦¬à¦¾à§œà¦¿",
+        "url": "tongibari.munshiganj.gov.bd"
+    },
+    {
+        "id": "376",
+        "district_id": "49",
+        "name": "Rajbari Sadar",
+        "bn_name": "à¦°à¦¾à¦œà¦¬à¦¾à¦¡à¦¼à§€ à¦¸à¦¦à¦°",
+        "url": "sadar.rajbari.gov.bd"
+    },
+    {
+        "id": "377",
+        "district_id": "49",
+        "name": "Goalanda",
+        "bn_name": "à¦—à§‹à¦¯à¦¼à¦¾à¦²à¦¨à§à¦¦",
+        "url": "goalanda.rajbari.gov.bd"
+    },
+    {
+        "id": "378",
+        "district_id": "49",
+        "name": "Pangsa",
+        "bn_name": "à¦ªà¦¾à¦‚à¦¶à¦¾",
+        "url": "pangsa.rajbari.gov.bd"
+    },
+    {
+        "id": "379",
+        "district_id": "49",
+        "name": "Baliakandi",
+        "bn_name": "à¦¬à¦¾à¦²à¦¿à¦¯à¦¼à¦¾à¦•à¦¾à¦¨à§à¦¦à¦¿",
+        "url": "baliakandi.rajbari.gov.bd"
+    },
+    {
+        "id": "380",
+        "district_id": "49",
+        "name": "Kalukhali",
+        "bn_name": "à¦•à¦¾à¦²à§à¦–à¦¾à¦²à§€",
+        "url": "kalukhali.rajbari.gov.bd"
+    },
+    {
+        "id": "381",
+        "district_id": "50",
+        "name": "Madaripur Sadar",
+        "bn_name": "à¦®à¦¾à¦¦à¦¾à¦°à§€à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.madaripur.gov.bd"
+    },
+    {
+        "id": "382",
+        "district_id": "50",
+        "name": "Shibchar",
+        "bn_name": "à¦¶à¦¿à¦¬à¦šà¦°",
+        "url": "shibchar.madaripur.gov.bd"
+    },
+    {
+        "id": "383",
+        "district_id": "50",
+        "name": "Kalkini",
+        "bn_name": "à¦•à¦¾à¦²à¦•à¦¿à¦¨à¦¿",
+        "url": "kalkini.madaripur.gov.bd"
+    },
+    {
+        "id": "384",
+        "district_id": "50",
+        "name": "Rajoir",
+        "bn_name": "à¦°à¦¾à¦œà§ˆà¦°",
+        "url": "rajoir.madaripur.gov.bd"
+    },
+    {
+        "id": "385",
+        "district_id": "51",
+        "name": "Gopalganj Sadar",
+        "bn_name": "à¦—à§‹à¦ªà¦¾à¦²à¦—à¦žà§à¦œ à¦¸à¦¦à¦°",
+        "url": "sadar.gopalganj.gov.bd"
+    },
+    {
+        "id": "386",
+        "district_id": "51",
+        "name": "Kashiani",
+        "bn_name": "à¦•à¦¾à¦¶à¦¿à¦¯à¦¼à¦¾à¦¨à§€",
+        "url": "kashiani.gopalganj.gov.bd"
+    },
+    {
+        "id": "387",
+        "district_id": "51",
+        "name": "Tungipara",
+        "bn_name": "à¦Ÿà§à¦‚à¦—à§€à¦ªà¦¾à¦¡à¦¼à¦¾",
+        "url": "tungipara.gopalganj.gov.bd"
+    },
+    {
+        "id": "388",
+        "district_id": "51",
+        "name": "Kotalipara",
+        "bn_name": "à¦•à§‹à¦Ÿà¦¾à¦²à§€à¦ªà¦¾à¦¡à¦¼à¦¾",
+        "url": "kotalipara.gopalganj.gov.bd"
+    },
+    {
+        "id": "389",
+        "district_id": "51",
+        "name": "Muksudpur",
+        "bn_name": "à¦®à§à¦•à¦¸à§à¦¦à¦ªà§à¦°",
+        "url": "muksudpur.gopalganj.gov.bd"
+    },
+    {
+        "id": "390",
+        "district_id": "52",
+        "name": "Faridpur Sadar",
+        "bn_name": "à¦«à¦°à¦¿à¦¦à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sadar.faridpur.gov.bd"
+    },
+    {
+        "id": "391",
+        "district_id": "52",
+        "name": "Alfadanga",
+        "bn_name": "à¦†à¦²à¦«à¦¾à¦¡à¦¾à¦™à§à¦—à¦¾",
+        "url": "alfadanga.faridpur.gov.bd"
+    },
+    {
+        "id": "392",
+        "district_id": "52",
+        "name": "Boalmari",
+        "bn_name": "à¦¬à§‹à§Ÿà¦¾à¦²à¦®à¦¾à¦°à§€",
+        "url": "boalmari.faridpur.gov.bd"
+    },
+    {
+        "id": "393",
+        "district_id": "52",
+        "name": "Sadarpur",
+        "bn_name": "à¦¸à¦¦à¦°à¦ªà§à¦°",
+        "url": "sadarpur.faridpur.gov.bd"
+    },
+    {
+        "id": "394",
+        "district_id": "52",
+        "name": "Nagarkanda",
+        "bn_name": "à¦¨à¦—à¦°à¦•à¦¾à¦¨à§à¦¦à¦¾",
+        "url": "nagarkanda.faridpur.gov.bd"
+    },
+    {
+        "id": "395",
+        "district_id": "52",
+        "name": "Bhanga",
+        "bn_name": "à¦­à¦¾à¦™à§à¦—à¦¾",
+        "url": "bhanga.faridpur.gov.bd"
+    },
+    {
+        "id": "396",
+        "district_id": "52",
+        "name": "Charbhadrasan",
+        "bn_name": "à¦šà¦°à¦­à¦¦à§à¦°à¦¾à¦¸à¦¨",
+        "url": "charbhadrasan.faridpur.gov.bd"
+    },
+    {
+        "id": "397",
+        "district_id": "52",
+        "name": "Madhukhali",
+        "bn_name": "à¦®à¦§à§à¦–à¦¾à¦²à§€",
+        "url": "madhukhali.faridpur.gov.bd"
+    },
+    {
+        "id": "398",
+        "district_id": "52",
+        "name": "Saltha",
+        "bn_name": "à¦¸à¦¾à¦²à¦¥à¦¾",
+        "url": "saltha.faridpur.gov.bd"
+    },
+    {
+        "id": "399",
+        "district_id": "53",
+        "name": "Panchagarh Sadar",
+        "bn_name": "à¦ªà¦žà§à¦šà¦—à¦¡à¦¼ à¦¸à¦¦à¦°",
+        "url": "panchagarhsadar.panchagarh.gov.bd"
+    },
+    {
+        "id": "400",
+        "district_id": "53",
+        "name": "Debiganj",
+        "bn_name": "à¦¦à§‡à¦¬à§€à¦—à¦žà§à¦œ",
+        "url": "debiganj.panchagarh.gov.bd"
+    },
+    {
+        "id": "401",
+        "district_id": "53",
+        "name": "Boda",
+        "bn_name": "à¦¬à§‹à¦¦à¦¾",
+        "url": "boda.panchagarh.gov.bd"
+    },
+    {
+        "id": "402",
+        "district_id": "53",
+        "name": "Atwari",
+        "bn_name": "à¦†à¦Ÿà§‹à¦¯à¦¼à¦¾à¦°à§€",
+        "url": "atwari.panchagarh.gov.bd"
+    },
+    {
+        "id": "403",
+        "district_id": "53",
+        "name": "Tetulia",
+        "bn_name": "à¦¤à§‡à¦¤à§à¦²à¦¿à¦¯à¦¼à¦¾",
+        "url": "tetulia.panchagarh.gov.bd"
+    },
+    {
+        "id": "404",
+        "district_id": "54",
+        "name": "Nawabganj",
+        "bn_name": "à¦¨à¦¬à¦¾à¦¬à¦—à¦žà§à¦œ",
+        "url": "nawabganj.dinajpur.gov.bd"
+    },
+    {
+        "id": "405",
+        "district_id": "54",
+        "name": "Birganj",
+        "bn_name": "à¦¬à§€à¦°à¦—à¦žà§à¦œ",
+        "url": "birganj.dinajpur.gov.bd"
+    },
+    {
+        "id": "406",
+        "district_id": "54",
+        "name": "Ghoraghat",
+        "bn_name": "à¦˜à§‹à§œà¦¾à¦˜à¦¾à¦Ÿ",
+        "url": "ghoraghat.dinajpur.gov.bd"
+    },
+    {
+        "id": "407",
+        "district_id": "54",
+        "name": "Birampur",
+        "bn_name": "à¦¬à¦¿à¦°à¦¾à¦®à¦ªà§à¦°",
+        "url": "birampur.dinajpur.gov.bd"
+    },
+    {
+        "id": "408",
+        "district_id": "54",
+        "name": "Parbatipur",
+        "bn_name": "à¦ªà¦¾à¦°à§à¦¬à¦¤à§€à¦ªà§à¦°",
+        "url": "parbatipur.dinajpur.gov.bd"
+    },
+    {
+        "id": "409",
+        "district_id": "54",
+        "name": "Bochaganj",
+        "bn_name": "à¦¬à§‹à¦šà¦¾à¦—à¦žà§à¦œ",
+        "url": "bochaganj.dinajpur.gov.bd"
+    },
+    {
+        "id": "410",
+        "district_id": "54",
+        "name": "Kaharol",
+        "bn_name": "à¦•à¦¾à¦¹à¦¾à¦°à§‹à¦²",
+        "url": "kaharol.dinajpur.gov.bd"
+    },
+    {
+        "id": "411",
+        "district_id": "54",
+        "name": "Fulbari",
+        "bn_name": "à¦«à§à¦²à¦¬à¦¾à§œà§€",
+        "url": "fulbari.dinajpur.gov.bd"
+    },
+    {
+        "id": "412",
+        "district_id": "54",
+        "name": "Dinajpur Sadar",
+        "bn_name": "à¦¦à¦¿à¦¨à¦¾à¦œà¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "dinajpursadar.dinajpur.gov.bd"
+    },
+    {
+        "id": "413",
+        "district_id": "54",
+        "name": "Hakimpur",
+        "bn_name": "à¦¹à¦¾à¦•à¦¿à¦®à¦ªà§à¦°",
+        "url": "hakimpur.dinajpur.gov.bd"
+    },
+    {
+        "id": "414",
+        "district_id": "54",
+        "name": "Khansama",
+        "bn_name": "à¦–à¦¾à¦¨à¦¸à¦¾à¦®à¦¾",
+        "url": "khansama.dinajpur.gov.bd"
+    },
+    {
+        "id": "415",
+        "district_id": "54",
+        "name": "Birol",
+        "bn_name": "à¦¬à¦¿à¦°à¦²",
+        "url": "birol.dinajpur.gov.bd"
+    },
+    {
+        "id": "416",
+        "district_id": "54",
+        "name": "Chirirbandar",
+        "bn_name": "à¦šà¦¿à¦°à¦¿à¦°à¦¬à¦¨à§à¦¦à¦°",
+        "url": "chirirbandar.dinajpur.gov.bd"
+    },
+    {
+        "id": "417",
+        "district_id": "55",
+        "name": "Lalmonirhat Sadar",
+        "bn_name": "à¦²à¦¾à¦²à¦®à¦¨à¦¿à¦°à¦¹à¦¾à¦Ÿ à¦¸à¦¦à¦°",
+        "url": "sadar.lalmonirhat.gov.bd"
+    },
+    {
+        "id": "418",
+        "district_id": "55",
+        "name": "Kaliganj",
+        "bn_name": "à¦•à¦¾à¦²à§€à¦—à¦žà§à¦œ",
+        "url": "kaliganj.lalmonirhat.gov.bd"
+    },
+    {
+        "id": "419",
+        "district_id": "55",
+        "name": "Hatibandha",
+        "bn_name": "à¦¹à¦¾à¦¤à§€à¦¬à¦¾à¦¨à§à¦§à¦¾",
+        "url": "hatibandha.lalmonirhat.gov.bd"
+    },
+    {
+        "id": "420",
+        "district_id": "55",
+        "name": "Patgram",
+        "bn_name": "à¦ªà¦¾à¦Ÿà¦—à§à¦°à¦¾à¦®",
+        "url": "patgram.lalmonirhat.gov.bd"
+    },
+    {
+        "id": "421",
+        "district_id": "55",
+        "name": "Aditmari",
+        "bn_name": "à¦†à¦¦à¦¿à¦¤à¦®à¦¾à¦°à§€",
+        "url": "aditmari.lalmonirhat.gov.bd"
+    },
+    {
+        "id": "422",
+        "district_id": "56",
+        "name": "Syedpur",
+        "bn_name": "à¦¸à§ˆà¦¯à¦¼à¦¦à¦ªà§à¦°",
+        "url": "syedpur.nilphamari.gov.bd"
+    },
+    {
+        "id": "423",
+        "district_id": "56",
+        "name": "Domar",
+        "bn_name": "à¦¡à§‹à¦®à¦¾à¦°",
+        "url": "domar.nilphamari.gov.bd"
+    },
+    {
+        "id": "424",
+        "district_id": "56",
+        "name": "Dimla",
+        "bn_name": "à¦¡à¦¿à¦®à¦²à¦¾",
+        "url": "dimla.nilphamari.gov.bd"
+    },
+    {
+        "id": "425",
+        "district_id": "56",
+        "name": "Jaldhaka",
+        "bn_name": "à¦œà¦²à¦¢à¦¾à¦•à¦¾",
+        "url": "jaldhaka.nilphamari.gov.bd"
+    },
+    {
+        "id": "426",
+        "district_id": "56",
+        "name": "Kishorganj",
+        "bn_name": "à¦•à¦¿à¦¶à§‹à¦°à¦—à¦žà§à¦œ",
+        "url": "kishorganj.nilphamari.gov.bd"
+    },
+    {
+        "id": "427",
+        "district_id": "56",
+        "name": "Nilphamari Sadar",
+        "bn_name": "à¦¨à§€à¦²à¦«à¦¾à¦®à¦¾à¦°à§€ à¦¸à¦¦à¦°",
+        "url": "nilphamarisadar.nilphamari.gov.bd"
+    },
+    {
+        "id": "428",
+        "district_id": "57",
+        "name": "Sadullapur",
+        "bn_name": "à¦¸à¦¾à¦¦à§à¦²à§à¦²à¦¾à¦ªà§à¦°",
+        "url": "sadullapur.gaibandha.gov.bd"
+    },
+    {
+        "id": "429",
+        "district_id": "57",
+        "name": "Gaibandha Sadar",
+        "bn_name": "à¦—à¦¾à¦‡à¦¬à¦¾à¦¨à§à¦§à¦¾ à¦¸à¦¦à¦°",
+        "url": "gaibandhasadar.gaibandha.gov.bd"
+    },
+    {
+        "id": "430",
+        "district_id": "57",
+        "name": "Palashbari",
+        "bn_name": "à¦ªà¦²à¦¾à¦¶à¦¬à¦¾à§œà§€",
+        "url": "palashbari.gaibandha.gov.bd"
+    },
+    {
+        "id": "431",
+        "district_id": "57",
+        "name": "Saghata",
+        "bn_name": "à¦¸à¦¾à¦˜à¦¾à¦Ÿà¦¾",
+        "url": "saghata.gaibandha.gov.bd"
+    },
+    {
+        "id": "432",
+        "district_id": "57",
+        "name": "Gobindaganj",
+        "bn_name": "à¦—à§‹à¦¬à¦¿à¦¨à§à¦¦à¦—à¦žà§à¦œ",
+        "url": "gobindaganj.gaibandha.gov.bd"
+    },
+    {
+        "id": "433",
+        "district_id": "57",
+        "name": "Sundarganj",
+        "bn_name": "à¦¸à§à¦¨à§à¦¦à¦°à¦—à¦žà§à¦œ",
+        "url": "sundarganj.gaibandha.gov.bd"
+    },
+    {
+        "id": "434",
+        "district_id": "57",
+        "name": "Phulchari",
+        "bn_name": "à¦«à§à¦²à¦›à§œà¦¿",
+        "url": "phulchari.gaibandha.gov.bd"
+    },
+    {
+        "id": "435",
+        "district_id": "58",
+        "name": "Thakurgaon Sadar",
+        "bn_name": "à¦ à¦¾à¦•à§à¦°à¦—à¦¾à¦à¦“ à¦¸à¦¦à¦°",
+        "url": "thakurgaonsadar.thakurgaon.gov.bd"
+    },
+    {
+        "id": "436",
+        "district_id": "58",
+        "name": "Pirganj",
+        "bn_name": "à¦ªà§€à¦°à¦—à¦žà§à¦œ",
+        "url": "pirganj.thakurgaon.gov.bd"
+    },
+    {
+        "id": "437",
+        "district_id": "58",
+        "name": "Ranisankail",
+        "bn_name": "à¦°à¦¾à¦£à§€à¦¶à¦‚à¦•à§ˆà¦²",
+        "url": "ranisankail.thakurgaon.gov.bd"
+    },
+    {
+        "id": "438",
+        "district_id": "58",
+        "name": "Haripur",
+        "bn_name": "à¦¹à¦°à¦¿à¦ªà§à¦°",
+        "url": "haripur.thakurgaon.gov.bd"
+    },
+    {
+        "id": "439",
+        "district_id": "58",
+        "name": "Baliadangi",
+        "bn_name": "à¦¬à¦¾à¦²à¦¿à¦¯à¦¼à¦¾à¦¡à¦¾à¦™à§à¦—à§€",
+        "url": "baliadangi.thakurgaon.gov.bd"
+    },
+    {
+        "id": "440",
+        "district_id": "59",
+        "name": "Rangpur Sadar",
+        "bn_name": "à¦°à¦‚à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "rangpursadar.rangpur.gov.bd"
+    },
+    {
+        "id": "441",
+        "district_id": "59",
+        "name": "Gangachara",
+        "bn_name": "à¦—à¦‚à¦—à¦¾à¦šà¦¡à¦¼à¦¾",
+        "url": "gangachara.rangpur.gov.bd"
+    },
+    {
+        "id": "442",
+        "district_id": "59",
+        "name": "Taragonj",
+        "bn_name": "à¦¤à¦¾à¦°à¦¾à¦—à¦žà§à¦œ",
+        "url": "taragonj.rangpur.gov.bd"
+    },
+    {
+        "id": "443",
+        "district_id": "59",
+        "name": "Badargonj",
+        "bn_name": "à¦¬à¦¦à¦°à¦—à¦žà§à¦œ",
+        "url": "badargonj.rangpur.gov.bd"
+    },
+    {
+        "id": "444",
+        "district_id": "59",
+        "name": "Mithapukur",
+        "bn_name": "à¦®à¦¿à¦ à¦¾à¦ªà§à¦•à§à¦°",
+        "url": "mithapukur.rangpur.gov.bd"
+    },
+    {
+        "id": "445",
+        "district_id": "59",
+        "name": "Pirgonj",
+        "bn_name": "à¦ªà§€à¦°à¦—à¦žà§à¦œ",
+        "url": "pirgonj.rangpur.gov.bd"
+    },
+    {
+        "id": "446",
+        "district_id": "59",
+        "name": "Kaunia",
+        "bn_name": "à¦•à¦¾à¦‰à¦¨à¦¿à¦¯à¦¼à¦¾",
+        "url": "kaunia.rangpur.gov.bd"
+    },
+    {
+        "id": "447",
+        "district_id": "59",
+        "name": "Pirgacha",
+        "bn_name": "à¦ªà§€à¦°à¦—à¦¾à¦›à¦¾",
+        "url": "pirgacha.rangpur.gov.bd"
+    },
+    {
+        "id": "448",
+        "district_id": "60",
+        "name": "Kurigram Sadar",
+        "bn_name": "à¦•à§à¦¡à¦¼à¦¿à¦—à§à¦°à¦¾à¦® à¦¸à¦¦à¦°",
+        "url": "kurigramsadar.kurigram.gov.bd"
+    },
+    {
+        "id": "449",
+        "district_id": "60",
+        "name": "Nageshwari",
+        "bn_name": "à¦¨à¦¾à¦—à§‡à¦¶à§à¦¬à¦°à§€",
+        "url": "nageshwari.kurigram.gov.bd"
+    },
+    {
+        "id": "450",
+        "district_id": "60",
+        "name": "Bhurungamari",
+        "bn_name": "à¦­à§à¦°à§à¦™à§à¦—à¦¾à¦®à¦¾à¦°à§€",
+        "url": "bhurungamari.kurigram.gov.bd"
+    },
+    {
+        "id": "451",
+        "district_id": "60",
+        "name": "Phulbari",
+        "bn_name": "à¦«à§à¦²à¦¬à¦¾à§œà§€",
+        "url": "phulbari.kurigram.gov.bd"
+    },
+    {
+        "id": "452",
+        "district_id": "60",
+        "name": "Rajarhat",
+        "bn_name": "à¦°à¦¾à¦œà¦¾à¦°à¦¹à¦¾à¦Ÿ",
+        "url": "rajarhat.kurigram.gov.bd"
+    },
+    {
+        "id": "453",
+        "district_id": "60",
+        "name": "Ulipur",
+        "bn_name": "à¦‰à¦²à¦¿à¦ªà§à¦°",
+        "url": "ulipur.kurigram.gov.bd"
+    },
+    {
+        "id": "454",
+        "district_id": "60",
+        "name": "Chilmari",
+        "bn_name": "à¦šà¦¿à¦²à¦®à¦¾à¦°à§€",
+        "url": "chilmari.kurigram.gov.bd"
+    },
+    {
+        "id": "455",
+        "district_id": "60",
+        "name": "Rowmari",
+        "bn_name": "à¦°à§Œà¦®à¦¾à¦°à§€",
+        "url": "rowmari.kurigram.gov.bd"
+    },
+    {
+        "id": "456",
+        "district_id": "60",
+        "name": "Charrajibpur",
+        "bn_name": "à¦šà¦° à¦°à¦¾à¦œà¦¿à¦¬à¦ªà§à¦°",
+        "url": "charrajibpur.kurigram.gov.bd"
+    },
+    {
+        "id": "457",
+        "district_id": "61",
+        "name": "Sherpur Sadar",
+        "bn_name": "à¦¶à§‡à¦°à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "sherpursadar.sherpur.gov.bd"
+    },
+    {
+        "id": "458",
+        "district_id": "61",
+        "name": "Nalitabari",
+        "bn_name": "à¦¨à¦¾à¦²à¦¿à¦¤à¦¾à¦¬à¦¾à¦¡à¦¼à§€",
+        "url": "nalitabari.sherpur.gov.bd"
+    },
+    {
+        "id": "459",
+        "district_id": "61",
+        "name": "Sreebordi",
+        "bn_name": "à¦¶à§à¦°à§€à¦¬à¦°à¦¦à§€",
+        "url": "sreebordi.sherpur.gov.bd"
+    },
+    {
+        "id": "460",
+        "district_id": "61",
+        "name": "Nokla",
+        "bn_name": "à¦¨à¦•à¦²à¦¾",
+        "url": "nokla.sherpur.gov.bd"
+    },
+    {
+        "id": "461",
+        "district_id": "61",
+        "name": "Jhenaigati",
+        "bn_name": "à¦à¦¿à¦¨à¦¾à¦‡à¦—à¦¾à¦¤à§€",
+        "url": "jhenaigati.sherpur.gov.bd"
+    },
+    {
+        "id": "462",
+        "district_id": "62",
+        "name": "Fulbaria",
+        "bn_name": "à¦«à§à¦²à¦¬à¦¾à§œà§€à§Ÿà¦¾",
+        "url": "fulbaria.mymensingh.gov.bd"
+    },
+    {
+        "id": "463",
+        "district_id": "62",
+        "name": "Trishal",
+        "bn_name": "à¦¤à§à¦°à¦¿à¦¶à¦¾à¦²",
+        "url": "trishal.mymensingh.gov.bd"
+    },
+    {
+        "id": "464",
+        "district_id": "62",
+        "name": "Bhaluka",
+        "bn_name": "à¦­à¦¾à¦²à§à¦•à¦¾",
+        "url": "bhaluka.mymensingh.gov.bd"
+    },
+    {
+        "id": "465",
+        "district_id": "62",
+        "name": "Muktagacha",
+        "bn_name": "à¦®à§à¦•à§à¦¤à¦¾à¦—à¦¾à¦›à¦¾",
+        "url": "muktagacha.mymensingh.gov.bd"
+    },
+    {
+        "id": "466",
+        "district_id": "62",
+        "name": "Mymensingh Sadar",
+        "bn_name": "à¦®à§Ÿà¦®à¦¨à¦¸à¦¿à¦‚à¦¹ à¦¸à¦¦à¦°",
+        "url": "mymensinghsadar.mymensingh.gov.bd"
+    },
+    {
+        "id": "467",
+        "district_id": "62",
+        "name": "Dhobaura",
+        "bn_name": "à¦§à§‡à¦¾à¦¬à¦¾à¦‰à§œà¦¾",
+        "url": "dhobaura.mymensingh.gov.bd"
+    },
+    {
+        "id": "468",
+        "district_id": "62",
+        "name": "Phulpur",
+        "bn_name": "à¦«à§à¦²à¦ªà§à¦°",
+        "url": "phulpur.mymensingh.gov.bd"
+    },
+    {
+        "id": "469",
+        "district_id": "62",
+        "name": "Haluaghat",
+        "bn_name": "à¦¹à¦¾à¦²à§à§Ÿà¦¾à¦˜à¦¾à¦Ÿ",
+        "url": "haluaghat.mymensingh.gov.bd"
+    },
+    {
+        "id": "470",
+        "district_id": "62",
+        "name": "Gouripur",
+        "bn_name": "à¦—à§Œà¦°à§€à¦ªà§à¦°",
+        "url": "gouripur.mymensingh.gov.bd"
+    },
+    {
+        "id": "471",
+        "district_id": "62",
+        "name": "Gafargaon",
+        "bn_name": "à¦—à¦«à¦°à¦—à¦¾à¦à¦“",
+        "url": "gafargaon.mymensingh.gov.bd"
+    },
+    {
+        "id": "472",
+        "district_id": "62",
+        "name": "Iswarganj",
+        "bn_name": "à¦ˆà¦¶à§à¦¬à¦°à¦—à¦žà§à¦œ",
+        "url": "iswarganj.mymensingh.gov.bd"
+    },
+    {
+        "id": "473",
+        "district_id": "62",
+        "name": "Nandail",
+        "bn_name": "à¦¨à¦¾à¦¨à§à¦¦à¦¾à¦‡à¦²",
+        "url": "nandail.mymensingh.gov.bd"
+    },
+    {
+        "id": "474",
+        "district_id": "62",
+        "name": "Tarakanda",
+        "bn_name": "à¦¤à¦¾à¦°à¦¾à¦•à¦¾à¦¨à§à¦¦à¦¾",
+        "url": "tarakanda.mymensingh.gov.bd"
+    },
+    {
+        "id": "475",
+        "district_id": "63",
+        "name": "Jamalpur Sadar",
+        "bn_name": "à¦œà¦¾à¦®à¦¾à¦²à¦ªà§à¦° à¦¸à¦¦à¦°",
+        "url": "jamalpursadar.jamalpur.gov.bd"
+    },
+    {
+        "id": "476",
+        "district_id": "63",
+        "name": "Melandah",
+        "bn_name": "à¦®à§‡à¦²à¦¾à¦¨à§à¦¦à¦¹",
+        "url": "melandah.jamalpur.gov.bd"
+    },
+    {
+        "id": "477",
+        "district_id": "63",
+        "name": "Islampur",
+        "bn_name": "à¦‡à¦¸à¦²à¦¾à¦®à¦ªà§à¦°",
+        "url": "islampur.jamalpur.gov.bd"
+    },
+    {
+        "id": "478",
+        "district_id": "63",
+        "name": "Dewangonj",
+        "bn_name": "à¦¦à§‡à¦“à¦¯à¦¼à¦¾à¦¨à¦—à¦žà§à¦œ",
+        "url": "dewangonj.jamalpur.gov.bd"
+    },
+    {
+        "id": "479",
+        "district_id": "63",
+        "name": "Sarishabari",
+        "bn_name": "à¦¸à¦°à¦¿à¦·à¦¾à¦¬à¦¾à¦¡à¦¼à§€",
+        "url": "sarishabari.jamalpur.gov.bd"
+    },
+    {
+        "id": "480",
+        "district_id": "63",
+        "name": "Madarganj",
+        "bn_name": "à¦®à¦¾à¦¦à¦¾à¦°à¦—à¦žà§à¦œ",
+        "url": "madarganj.jamalpur.gov.bd"
+    },
+    {
+        "id": "481",
+        "district_id": "63",
+        "name": "Bokshiganj",
+        "bn_name": "à¦¬à¦•à¦¶à§€à¦—à¦žà§à¦œ",
+        "url": "bokshiganj.jamalpur.gov.bd"
+    },
+    {
+        "id": "482",
+        "district_id": "64",
+        "name": "Barhatta",
+        "bn_name": "à¦¬à¦¾à¦°à¦¹à¦¾à¦Ÿà§à¦Ÿà¦¾",
+        "url": "barhatta.netrokona.gov.bd"
+    },
+    {
+        "id": "483",
+        "district_id": "64",
+        "name": "Durgapur",
+        "bn_name": "à¦¦à§à¦°à§à¦—à¦¾à¦ªà§à¦°",
+        "url": "durgapur.netrokona.gov.bd"
+    },
+    {
+        "id": "484",
+        "district_id": "64",
+        "name": "Kendua",
+        "bn_name": "à¦•à§‡à¦¨à§à¦¦à§à§Ÿà¦¾",
+        "url": "kendua.netrokona.gov.bd"
+    },
+    {
+        "id": "485",
+        "district_id": "64",
+        "name": "Atpara",
+        "bn_name": "à¦†à¦Ÿà¦ªà¦¾à§œà¦¾",
+        "url": "atpara.netrokona.gov.bd"
+    },
+    {
+        "id": "486",
+        "district_id": "64",
+        "name": "Madan",
+        "bn_name": "à¦®à¦¦à¦¨",
+        "url": "madan.netrokona.gov.bd"
+    },
+    {
+        "id": "487",
+        "district_id": "64",
+        "name": "Khaliajuri",
+        "bn_name": "à¦–à¦¾à¦²à¦¿à§Ÿà¦¾à¦œà§à¦°à§€",
+        "url": "khaliajuri.netrokona.gov.bd"
+    },
+    {
+        "id": "488",
+        "district_id": "64",
+        "name": "Kalmakanda",
+        "bn_name": "à¦•à¦²à¦®à¦¾à¦•à¦¾à¦¨à§à¦¦à¦¾",
+        "url": "kalmakanda.netrokona.gov.bd"
+    },
+    {
+        "id": "489",
+        "district_id": "64",
+        "name": "Mohongonj",
+        "bn_name": "à¦®à§‹à¦¹à¦¨à¦—à¦žà§à¦œ",
+        "url": "mohongonj.netrokona.gov.bd"
+    },
+    {
+        "id": "490",
+        "district_id": "64",
+        "name": "Purbadhala",
+        "bn_name": "à¦ªà§‚à¦°à§à¦¬à¦§à¦²à¦¾",
+        "url": "purbadhala.netrokona.gov.bd"
+    },
+    {
+        "id": "491",
+        "district_id": "64",
+        "name": "Netrokona Sadar",
+        "bn_name": "à¦¨à§‡à¦¤à§à¦°à¦•à§‹à¦£à¦¾ à¦¸à¦¦à¦°",
+        "url": "netrokonasadar.netrokona.gov.bd"
+    }
+]
